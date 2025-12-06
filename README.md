@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .POKER one-word domains still available to buy.
 
-This dataset contains 4,690 .POKER one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,694 .POKER one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.POKER one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=poker-oneword-domains&utm_content=description.top) (4,689) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.POKER one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.poker        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.poker        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.poker      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.poker  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.poker      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.POKER one word domain
 | abatic.poker     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.poker    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.poker   | available | 50       | 1%     | 8      |           |         |         |
-| abc.poker        | available | 102      | 41%    | 3      |           |         |         |
+| abc.poker        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.poker  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.poker  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.poker | available | 56       | 1%     | 10     |           |         |         |
