@@ -73,7 +73,7 @@ print(df.head())
 | creative.poker  | available | $14.99    | $88.49        | 92             | 45     | 8      | name.com                                     |
 | home.poker      | resell    | —         | —             | 100            | 62     | 4      | Spaceship, Inc.                              |
 | art.poker       | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                                    |
-| forge.poker     | available | $14.99    | $88.49        | 62             | 45     | 5      | name.com                                     |
+| forge.poker     | available | $14.99    | $88.49        | 62             | 44     | 5      | name.com                                     |
 | open.poker      | resell    | —         | —             | 106            | 60     | 4      | Unstoppable Domains Inc                      |
 | athletics.poker | premium   | $85.80    | $85.80        | 69             | 52     | 9      | namecheap                                    |
 | wizard.poker    | available | $14.99    | $88.49        | 118            | 43     | 6      | name.com                                     |
@@ -82,7 +82,7 @@ print(df.head())
 | mojo.poker      | available | $14.99    | —             | 80             | 43     | 4      | name.com                                     |
 | smart.poker     | resell    | —         | —             | 74             | 56     | 5      | Spaceship, Inc.                              |
 | air.poker       | premium   | $650      | $650          | 84             | 49     | 3      | namecheap                                    |
-| mark.poker      | available | $14.99    | $88.49        | 66             | 42     | 4      | name.com                                     |
+| craft.poker     | available | $14.99    | $88.49        | 70             | 42     | 5      | name.com                                     |
 | link.poker      | resell    | —         | —             | 68             | 54     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
