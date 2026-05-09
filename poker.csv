@@ -433,6 +433,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 25804564-ad0a-4656-a04f-8d1ec0b6890e,snapped.poker,available,14.99,,52,6,7,name.com,,
 258f5ee1-4688-445d-87c0-c2f25d68a6d8,havetheupperhand.poker,available,14.99,,46,1,19,name.com,,
 25a6981e-94e7-4f88-bee5-0e14c805ef31,breads.poker,available,14.99,,58,5,6,name.com,,
+25d0c808-baf1-4d1c-ac61-10e161463814,sea.poker,premium,22372.84,,68,36,3,Dynadot Inc,01/07/2025 11:39,01/07/2026 11:39
 25d688ea-7e35-44ce-a129-d89fae60b4fd,drycleaning.poker,available,14.99,,74,9,11,name.com,,
 25d8f975-2d29-4820-8259-c14673ba1a86,differences.poker,available,14.99,,52,4,11,name.com,,
 25e52382-9ccd-4557-91dc-757b409aaaf0,letoff.poker,available,14.99,,77,1,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 554863a8-eb6f-4fe1-80f5-c9dc49e0bf0c,skateover.poker,available,14.99,,60,0,10,name.com,,
 55562098-bb73-40b3-a2fb-aa6f8ec4531a,bedframe.poker,available,14.99,,80,3,9,name.com,,
 5574485e-af1f-489c-821e-c8bee27f0355,punched.poker,available,14.99,,50,3,7,name.com,,
-55d82a46-6be6-4f75-9be1-a5e59e1befad,scoopin.poker,available,14.99,,68,1,8,name.com,,
