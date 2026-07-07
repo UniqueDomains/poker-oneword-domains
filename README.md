@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .poker one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,439 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,439 domains · **Median ask:** $50.15 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,439 domains · **Median ask:** $45.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/poker`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/poker`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .POKER one-word domain
 
 ### Files
 
-- `poker.csv` — public CSV extract (1,000 rows)
-- `poker.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `poker.csv`, public CSV extract (1,000 rows)
+- `poker.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Trex.poker     | available | $85.98     | —             | 80             | 24     | 5      | namecheap       |
-| forces.poker   | available | $14.99     | —             | 82             | 12     | 6      | name.com        |
-| getup.poker    | available | $14.99     | —             | 82             | 15     | 6      | name.com        |
-| useit.poker    | available | $14.99     | —             | 94             | 7      | 6      | name.com        |
-| dogsit.poker   | available | $14.99     | —             | 96             | 2      | 6      | name.com        |
-| playon.poker   | available | $14.99     | —             | 80             | 14     | 7      | name.com        |
-| hangon.poker   | available | $14.99     | —             | 82             | 6      | 7      | name.com        |
-| pierogi.poker  | available | $14.99     | —             | 82             | 7      | 7      | name.com        |
-| stirup.poker   | available | $14.99     | —             | 82             | 3      | 7      | name.com        |
-| watches.poker  | available | $14.99     | —             | 84             | 19     | 7      | name.com        |
-| Snickers.poker | available | $85.98     | —             | 80             | 10     | 8      | namecheap       |
-| whynot.poker   | available | $14.99     | —             | 74             | 44     | 7      | name.com        |
-| share.poker    | resell    | —          | —             | 74             | 50     | 5      | Spaceship, Inc. |
-| sea.poker      | premium   | $22,372.84 | —             | 68             | 36     | 3      | Dynadot Inc     |
-| Ryan.poker     | available | $85.98     | —             | 60             | 44     | 4      | namecheap       |
-| today.poker    | resell    | —          | —             | 82             | 35     | 5      | Spaceship, Inc. |
-| pages.poker    | premium   | $625       | —             | 52             | 28     | 5      | name.com        |
-| quotes.poker   | available | $14.99     | —             | 58             | 29     | 6      | name.com        |
-| palm.poker     | resell    | —          | —             | 79             | 32     | 4      | Spaceship, Inc. |
-| systems.poker  | premium   | $625       | —             | 46             | 27     | 7      | name.com        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| beg.poker          | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| usa.poker          | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.   |
+| ana.poker          | premium   | $625      | —             | high           | low    | 3      | name.com          |
+| con.poker          | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| dice.poker         | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 47 |
+| ate.poker          | premium   | $625      | —             | high           | low    | 3      | name.com          |
+| dew.poker          | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| real.poker         | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| bae.poker          | premium   | $625      | —             | high           | low    | 3      | name.com          |
+| did.poker          | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| nevada.poker       | resell    | —         | —             | medium         | low    | 6      | 1API GmbH         |
+| bra.poker          | premium   | $625      | —             | medium         | low    | 3      | name.com          |
+| ego.poker          | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| electronic.poker   | resell    | —         | —             | medium         | low    | 10     | 1API GmbH         |
+| tie.poker          | premium   | $625      | —             | high           | low    | 3      | name.com          |
+| end.poker          | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| Philadelphia.poker | resell    | —         | —             | high           | low    | 12     | OpusDNS GmbH      |
+| wow.poker          | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo          |
+| feb.poker          | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| WestVirginia.poker | resell    | —         | —             | low            | low    | 13     | OpusDNS GmbH      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .poker domains. The set is broad, with 12,427 names, and the median ask is about $44, so price is relatively approachable but quality will vary. When comparing these domains, focus on whether the word feels natural with .poker, whether it is easy to say and spell, and whether it creates a clear poker association or a strong brand angle. Names such as finals.poker or jewels.poker are more direct or thematic, while names like Trex.poker or matcha.poker are more distinctive but may need stronger brand logic. Shorter, cleaner words usually make the safer shortlist.
+This list covers one-word .poker domain names — single tokens with no hyphens or numbers, spanning everyday words, action phrases, and short brand-style terms like watches.poker or dogwalking.poker. With a median ask near $46, most names sit well within reach for a first .poker registration, while the size of this set — 12,439 names — gives broad coverage of a single-interest TLD. Because resale data for .poker is not yet established, treat the asking price and renewal cost as the main signals when comparing names in this set.
 
-- Prioritize words that read naturally with the .poker ending
-- Use median ask near $44 as a rough pricing baseline
-- Short, clear spellings are easier to remember and compare
-- Check for trademark overlap before treating a name as ownable
+- 12,439 one-word .poker domain names in this set
+- Median ask near $46 across the full list
+- Single-token names — no hyphens, no numbers
+- Wide mix: action, lifestyle, and everyday-word styles
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .POKER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .POKER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
