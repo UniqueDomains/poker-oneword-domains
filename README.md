@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .poker one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,322 domains · **Median ask:** $23.59 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/poker`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | nevada.poker       | resell    | —         | —             | medium         | low    | 6      | 1API GmbH         |
 | bra.poker          | premium   | $625      | —             | medium         | low    | 3      | name.com          |
 | did.poker          | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| electronic.poker   | resell    | —         | —             | medium         | low    | 10     | OpusDNS GmbH      |
+| electronic.poker   | resell    | —         | —             | low            | low    | 10     | OpusDNS GmbH      |
 | tie.poker          | premium   | $625      | —             | high           | low    | 3      | name.com          |
 | ego.poker          | available | $14.99    | —             | medium         | low    | 3      | name.com          |
-| Philadelphia.poker | resell    | —         | —             | high           | low    | 12     | OpusDNS GmbH      |
+| philadelphia.poker | resell    | —         | —             | high           | low    | 12     | OpusDNS GmbH      |
 | wow.poker          | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo          |
-| end.poker          | available | $5.98     | $85.98        | medium         | low    | 3      | namecheap         |
-| WestVirginia.poker | resell    | —         | —             | low            | low    | 13     | OpusDNS GmbH      |
+| end.poker          | available | $10.99    | $67.99        | medium         | low    | 3      | namesilo          |
+| westvirginia.poker | resell    | —         | —             | low            | low    | 13     | OpusDNS GmbH      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .POKER One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .POKER One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
