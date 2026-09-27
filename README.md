@@ -1,10 +1,10 @@
-# Available .POKER One-Word Domains (22,881)
+# Available .POKER One-Word Domains (23,283)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C881%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C283%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .poker one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,881 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,283 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,881 domains · **Median ask:** $28.91 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 23,283 domains · **Median ask:** $29.10 · **High-demand under $2,500:** 5
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/poker`
@@ -79,10 +79,10 @@ print(df.head())
 | cva.poker          | available | $5.98     | $85.98        | medium         | low    | 3      | namecheap                                    |
 | amsterdam.poker    | resell    | —         | —             | high           | low    | 9      | OpusDNS GmbH                                 |
 | otc.poker          | premium   | $640      | $640          | high           | low    | 3      | namesilo                                     |
-| did.poker          | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| dig.poker          | available | $14.99    | $88.49        | high           | low    | 3      | name.com                                     |
 | philadelphia.poker | resell    | —         | —             | high           | low    | 12     | OpusDNS GmbH                                 |
 | pay.poker          | premium   | $2,500    | —             | high           | medium | 3      | name.com                                     |
-| dig.poker          | available | $14.99    | $88.49        | high           | low    | 3      | name.com                                     |
+| dye.poker          | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
 | pot.poker          | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,881 live domains                        |
+| 1,000-row public sample | 23,283 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
