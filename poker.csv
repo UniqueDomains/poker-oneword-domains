@@ -1,11 +1,11 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-cebd7a51-a549-41ef-bda7-1d3b4e62746e,service.poker,resell,,,high,medium,7,"GoDaddy.com, LLC",12/11/2024 16:53,12/11/2026 16:53,26/09/2026 08:56
 52fd6414-54e0-4afc-8579-628e1b74e685,outlined.poker,available,5.98,85.98,high,low,8,namecheap,,,04/09/2026 19:31
 68d0ece2-1980-4264-97f7-488644cd3b43,stateless.poker,available,5.98,85.98,medium,low,9,namecheap,,,21/08/2026 11:01
 64c8cf8b-7670-4b62-938d-a708ea1d0a2d,redevelopment.poker,available,5.38,54.02,medium,low,13,spaceship,,,28/09/2026 05:35
 85a950f4-2ef6-4ef7-8233-4c85cda7562e,hotly.poker,available,5.98,85.98,medium,low,5,namecheap,,,14/09/2026 23:58
 05d73647-4adc-41d0-9098-037d95ee03f7,investigating.poker,available,10.99,67.99,high,low,13,namesilo,,,27/09/2026 09:46
 e2e27a2d-ea13-4088-921d-e0a559c9d43e,amsterdam.poker,resell,,,high,low,9,OpusDNS GmbH,21/04/2015 19:11,21/04/2027 19:11,26/09/2026 03:51
+82617f3c-dac4-4425-b4c5-0de0956e0895,tapping.poker,available,10.99,67.99,high,low,7,namesilo,,,28/09/2026 20:35
 5a1e88fb-9be7-4535-9259-b760a9c26519,annona.poker,available,10.99,67.99,medium,low,6,namesilo,,,19/09/2026 10:30
 caa8174e-fab7-41db-9b4b-0d96db3c269d,beekeeper.poker,available,10.99,67.99,high,low,9,namesilo,,,19/09/2026 17:19
 77ec7ae7-a748-44e1-ba77-85f0cd566fa7,quarto.poker,available,10.99,67.99,medium,low,6,namesilo,,,16/09/2026 12:37
@@ -16,6 +16,7 @@ b67637e9-134c-4f72-8da2-6ce1c9497d2c,idiocy.poker,available,5.98,85.98,medium,lo
 ff18a540-93e8-4333-b348-3c0b57da6d7f,philadelphia.poker,resell,,,high,low,12,OpusDNS GmbH,21/04/2015 17:39,21/04/2027 17:39,26/09/2026 08:08
 ec52d1d4-347d-4fb0-a63a-ecb0fc23f58e,fifteen.poker,available,10.99,67.99,high,low,7,namesilo,,,21/09/2026 11:44
 dd3e8ab4-bc03-485d-9632-fcfd8fe37d61,hinder.poker,available,10.99,67.99,high,low,6,namesilo,,,24/09/2026 23:48
+4eb3e982-4cdc-4256-8f49-58d9319bcda2,crib.poker,available,8.24,54.07,high,low,4,porkbun,,,29/09/2026 00:31
 cb71f544-9895-48de-a906-3ec11efa33d8,alienage.poker,available,5.98,85.98,medium,low,8,namecheap,,,18/09/2026 07:33
 83db637f-ea43-47b5-9fee-71a11bbe62ee,blamed.poker,available,5.98,85.98,medium,low,6,namecheap,,,10/08/2026 12:39
 5571003c-ea85-4ada-9ced-6153da474f80,tumultuous.poker,available,5.98,85.98,medium,low,10,namecheap,,,14/08/2026 12:25
@@ -32,6 +33,7 @@ f6201d47-cb6f-4713-a574-51fc7f8592c4,carryforward.poker,available,10.99,67.99,me
 1b399810-6c22-4908-b7be-451b3331cb57,level.poker,available,10.99,67.99,high,medium,5,namesilo,,,24/09/2026 15:32
 f785f3eb-9767-4333-a964-4cf97ee4082c,mood.poker,available,14.99,,high,low,4,name.com,,,
 ded64f82-373c-4144-8b71-c03892936c34,resists.poker,available,5.98,85.98,medium,low,7,namecheap,,,18/09/2026 10:58
+7d9dc1b3-01fd-4d6b-8088-d6e39150456b,cultures.poker,available,10.99,67.99,medium,low,8,namesilo,,,28/09/2026 23:32
 f7b0b3b9-2ebc-4c45-a016-a950cab07268,agio.poker,available,5.98,85.98,medium,low,4,namecheap,,,17/09/2026 18:01
 ccfd73a1-e375-4b7b-9392-0172d8e03126,tina.poker,available,14.99,88.49,high,low,4,name.com,,,25/09/2026 19:58
 ca0da75c-2079-460c-acd7-eccc66d9cda7,ardent.poker,available,5.98,85.98,high,low,6,namecheap,,,06/08/2026 16:11
@@ -39,10 +41,12 @@ c1a69ddd-0ab0-4f2b-9451-f96da9de1b60,bestower.poker,available,10.99,67.99,medium
 5b75fdd9-862b-4dad-a0af-2f3d8a8fac51,below.poker,available,10.99,67.99,high,low,5,namesilo,,,24/09/2026 12:01
 5de00442-9428-42aa-a980-fbab66d697a6,invent.poker,available,14.99,,high,low,6,name.com,,,
 cf440fc4-7e2a-41cb-803b-6d220d412f9b,eternally.poker,available,5.98,85.98,high,low,9,namecheap,,,14/09/2026 16:17
+2b5e9585-41dc-4613-9ab3-76ce9e534def,poets.poker,available,5.38,54.02,medium,low,5,spaceship,,,28/09/2026 22:26
 9124f47c-fa3d-4a47-a4cc-a1cf3a93d359,babble.poker,available,10.99,67.99,high,low,6,namesilo,,,21/09/2026 12:19
 ca7d9af8-4723-4bdc-9056-104d5bbcae95,honesty.poker,available,10.99,67.99,high,low,7,namesilo,,,28/09/2026 06:00
 02dd4f55-183d-4ae7-a20e-67c8905a9f23,electricity.poker,available,10.5,,high,low,11,unstoppable,,,28/09/2026 07:43
 5666c897-3044-4377-9c86-18343df4a6f7,until.poker,available,14.99,,medium,low,5,name.com,,,
+1e785741-887a-4010-9d8b-9835b268a497,martinez.poker,available,10.5,,medium,low,8,unstoppable,,,28/09/2026 12:21
 9e10c004-c350-430f-aa6a-7395c7ffd25c,congressman.poker,available,10.5,,high,low,11,unstoppable,,,28/09/2026 04:59
 fc5f0caf-ee34-4527-8856-31aca74f7caf,lisbon.poker,premium,625,,high,low,6,name.com,,,
 7bfffd4c-476b-4588-94ce-847fd52af170,italian.poker,premium,625,625,high,low,7,name.com,,,22/08/2026 11:36
@@ -61,22 +65,29 @@ f2a1f937-bda4-4ef7-91b4-e2131f6653c9,cva.poker,available,5.98,85.98,medium,low,3
 06b72a87-bc7b-430e-ac05-17f983b7d406,perch.poker,available,5.98,85.98,high,low,5,namecheap,,,
 f2fa08f8-a10e-4baf-bc25-cd54a8051025,scarred.poker,available,10.99,67.99,medium,low,7,namesilo,,,25/09/2026 17:02
 4c95f3c8-61b0-4571-8dd2-74c02ca330ce,outstanding.poker,available,5.98,85.98,high,low,11,namecheap,,,27/09/2026 06:10
+452e321f-9880-4eb4-bd30-dd5558492052,turner.poker,available,5.38,54.02,high,low,6,spaceship,,,29/09/2026 00:58
 1b8cff20-a685-42a9-b6b6-c43bf9cf04aa,armored.poker,available,10.99,67.99,high,low,7,namesilo,,,22/09/2026 08:00
 0876cc06-27c2-4ce4-a21f-66e3b04fe432,marks.poker,available,14.99,,high,low,5,name.com,,,
+c1e0d6b8-024e-467d-b85f-1172e806edd9,distinctive.poker,available,10.5,,high,low,11,unstoppable,,,28/09/2026 20:58
 96141a18-77e6-4322-aa32-3fa0653e78ec,creole.poker,available,5.98,85.98,high,low,6,namecheap,,,13/08/2026 06:07
 6e402439-b599-4933-b46b-0a9162940388,vibrant.poker,available,5.98,85.98,high,low,7,namecheap,,,13/09/2026 05:05
 e3ca54a9-3733-4d58-a1b5-1755a88f4d1e,weepy.poker,available,5.98,85.98,medium,low,5,namecheap,,,13/09/2026 10:06
+33e75fde-1ba3-4aee-bc97-0337bdeccaf1,elector.poker,available,5.38,54.02,medium,low,7,spaceship,,,28/09/2026 19:03
 c6b23a14-5752-4653-ad4c-1b3f8690a3e9,tungsten.poker,available,10.99,67.99,high,low,8,namesilo,,,20/09/2026 23:43
+5bc53002-ed38-479f-a5ce-1d811ab8b990,call.poker,premium,78.54,78.54,high,medium,4,namesilo,,,29/09/2026 02:48
 082dbf69-8707-411c-a7f5-93cd49081e64,raunchy.poker,available,5.98,85.98,medium,low,7,namecheap,,,09/08/2026 09:41
 80252fc1-b94e-46e7-bcf2-885e9c581704,unknowing.poker,available,5.98,85.98,medium,low,9,namecheap,,,12/09/2026 14:22
 adf78c69-e2dd-4159-9610-1e08c1f9a043,obliterate.poker,available,5.98,85.98,medium,low,10,namecheap,,,10/08/2026 15:34
-0f026e90-3958-4016-8226-5c39e23003b6,laziness.poker,available,14.99,,medium,low,8,name.com,,,
+0f026e90-3958-4016-8226-5c39e23003b6,laziness.poker,available,10.5,,medium,low,8,unstoppable,,,28/09/2026 17:35
 93b101b7-69e9-4b49-8b1c-32c47a12a7ba,paunchy.poker,available,5.98,85.98,medium,low,7,namecheap,,,
 eb9ece46-aaaf-46e4-816d-682b31b096ed,dyke.poker,available,5.98,85.98,medium,low,4,namecheap,,,11/08/2026 11:35
 e8f0ac27-6282-4b6e-884d-9a4fb4def1d0,arius.poker,available,10.99,67.99,medium,low,5,namesilo,,,20/09/2026 06:03
+b5afa4be-1b33-4b66-8d2a-0ffc5f5ee291,reg.poker,premium,68.51,68.51,high,low,3,spaceship,,,28/09/2026 21:01
 251c730e-fe69-44ec-af65-538a6ade272d,melodious.poker,available,5.98,85.98,high,low,9,namecheap,,,24/08/2026 19:38
+acf3ff0d-f99d-4d30-87ac-17b92ea6a8c4,spelled.poker,available,10.5,,low,low,7,unstoppable,,,28/09/2026 16:58
 8b2be918-bf4a-4ff0-b36c-57e71300eb55,arca.poker,available,10.99,67.99,high,low,4,namesilo,,,20/09/2026 01:31
 2e8d9d99-35a8-4ce6-8e62-665f81bb8848,neil.poker,available,10.99,67.99,high,low,4,namesilo,,,25/09/2026 13:57
+e3b06f4e-1c9a-4b9a-9609-d0feb5d4cc3e,railway.poker,available,5.38,54.02,high,low,7,spaceship,,,28/09/2026 20:14
 81c812b9-f9b3-400c-9a4a-d964eca172fb,wisely.poker,available,5.98,85.98,high,low,6,namecheap,,,16/09/2026 00:29
 742045a6-c32b-48be-91f2-f0d452d01c2f,baldrick.poker,available,10.99,67.99,medium,low,8,namesilo,,,21/09/2026 21:46
 19f7a77b-300a-4a1c-bf12-d836dcf0757d,poof.poker,available,5.98,85.98,medium,low,4,namecheap,,,09/09/2026 08:09
@@ -90,9 +101,11 @@ b006d58a-9e01-4279-8801-5c36ecf6d575,promethium.poker,available,10.99,67.99,medi
 21bb8666-0628-47d5-9a56-807cad3068de,introduced.poker,available,14.99,,high,low,10,name.com,,,
 d8bea923-af08-4285-8ecc-4497ceaa9053,rigorously.poker,available,5.98,85.98,medium,low,10,namecheap,,,15/09/2026 23:46
 fcb9e573-afa9-432e-805f-cd61941ec65a,herds.poker,available,5.98,85.98,medium,low,5,namecheap,,,19/09/2026 20:40
+85e820a6-a67f-4897-ab95-bc70d84d5e0a,halsey.poker,available,5.38,54.02,medium,low,6,spaceship,,,28/09/2026 16:48
 f439a4f7-9d7f-4231-985f-603e9105b891,discoid.poker,available,5.98,85.98,medium,low,7,namecheap,,,14/08/2026 09:38
 7947afd9-0495-4660-8e54-57418216dc67,stratified.poker,available,5.98,85.98,medium,low,10,namecheap,,,09/08/2026 06:36
 ee4929cb-926f-440c-aa0d-3cab03b55d4d,rubinstein.poker,available,10.99,67.99,medium,low,10,namesilo,,,19/09/2026 15:30
+2310ac56-3758-4698-b5e9-00a3621c572a,staffordshire.poker,available,8.24,54.07,medium,low,13,porkbun,,,28/09/2026 11:53
 dd4064b2-f3b4-4c22-ac50-7765469a717e,aplysia.poker,available,5.98,85.98,medium,low,7,namecheap,,,19/09/2026 17:53
 43700d21-97c5-4f27-86b6-8979928b5fed,emeritus.poker,available,5.98,85.98,high,low,8,namecheap,,,16/08/2026 15:05
 f3f16a3e-edef-4a0d-8625-7186fcddae8f,alertly.poker,available,5.98,85.98,medium,low,7,namecheap,,,13/09/2026 18:40
@@ -109,6 +122,7 @@ b9f678c1-ef87-4605-84d0-8cd9c20b87b2,brighton.poker,premium,625,625,high,low,8,n
 4a76b74d-89b6-4ca0-847e-c5af26a8f9e8,astrantia.poker,available,10.99,67.99,medium,low,9,namesilo,,,20/09/2026 17:32
 48d11210-9d4a-4a0e-8e69-535e417c3ec4,offended.poker,available,5.98,85.98,medium,low,8,namecheap,,,04/09/2026 01:24
 cb0de58e-0dc5-42ec-8c19-41a866030650,keypress.poker,available,14.99,,medium,low,9,name.com,,,
+af22ca62-bf03-4569-bab3-3a796e261924,screwed.poker,available,5.38,54.02,medium,low,7,spaceship,,,28/09/2026 15:59
 4c7c85ee-d72b-47f4-bc88-b09954e2adf8,sensational.poker,available,14.99,,high,low,11,name.com,,,
 5b7fc0c3-52df-4e74-85ab-ac57d8106cdb,molal.poker,available,5.98,85.98,medium,low,5,namecheap,,,25/08/2026 03:31
 0989ef09-aadc-45b7-b6d6-2dde0d222999,ganja.poker,available,14.99,,high,low,5,name.com,,,
@@ -116,6 +130,7 @@ cb0de58e-0dc5-42ec-8c19-41a866030650,keypress.poker,available,14.99,,medium,low,
 5b5cf05a-4bb8-455b-b600-36a8433cc211,framed.poker,available,5.98,85.98,high,low,6,namecheap,,,18/08/2026 14:04
 efb4d63b-6e13-4362-9b7b-d5b3768295b6,bicycles.poker,available,10.99,67.99,medium,low,8,namesilo,,,18/09/2026 23:48
 f79c8f6e-f37d-43f9-b7f3-5c836653f5f3,allele.poker,available,10.99,67.99,medium,low,6,namesilo,,,18/09/2026 10:44
+79d05dcd-4368-48b8-9c5b-8b5e45369b13,temptation.poker,available,5.98,85.98,high,low,10,namecheap,,,28/09/2026 09:41
 ee0d3fec-df2b-46b9-9f43-db9be2e27ef5,thirteen.poker,available,5.98,85.98,high,low,8,namecheap,,,21/09/2026 11:32
 f759367e-e242-436e-9b8b-ba6d05308125,tottering.poker,available,5.98,85.98,medium,low,9,namecheap,,,11/09/2026 18:14
 05be833a-0d9a-4453-80e2-1fb5c017b72a,adrenalin.poker,available,10.99,67.99,high,low,9,namesilo,,,17/09/2026 09:56
@@ -130,6 +145,7 @@ ca10e28b-ad2d-4e9c-a71c-d41ccec3bdc4,trousers.poker,available,14.99,,high,low,8,
 68cf6df1-949c-4054-b1ad-cc0b6309c165,ionic.poker,available,5.98,85.98,high,low,5,namecheap,,,22/08/2026 09:29
 c1d4f991-3a4d-42fd-aa2f-78e9eaa46dba,respite.poker,available,10.99,67.99,high,low,7,namesilo,,,16/09/2026 14:06
 ac2660c2-7a88-4dfb-bc4e-9a6cb8b5fd8f,formidably.poker,available,5.98,85.98,medium,low,10,namecheap,,,14/09/2026 19:46
+dae0da23-cb0c-4097-a07d-705cc6799319,mindanao.poker,available,10.99,67.99,medium,low,8,namesilo,,,28/09/2026 10:28
 af225fa7-2949-4459-ae34-d58fdf874a16,transonic.poker,available,5.98,85.98,medium,low,9,namecheap,,,10/09/2026 14:11
 cc39303a-cf01-4532-8752-a2305efca206,shipment.poker,available,10.99,67.99,high,low,8,namesilo,,,24/09/2026 12:59
 b28497bc-ec5c-4674-95fa-1d9b44df4439,photos.poker,available,10.99,67.99,high,low,6,namesilo,,,17/09/2026 16:48
@@ -140,7 +156,7 @@ dd377b45-8a13-46ae-937f-192cdfe45ef4,wet.poker,available,10.99,67.99,high,low,3,
 62683846-90b8-4cb6-92c0-a8dfba828c88,ibrahim.poker,available,10.99,67.99,high,low,7,namesilo,,,16/09/2026 16:51
 72b7be81-6764-4c14-b1a0-b9341f90eba8,destructive.poker,available,14.99,,medium,low,11,name.com,,,
 df045bb9-42aa-4019-8253-6575a14c180a,paced.poker,available,10.99,67.99,medium,low,5,namesilo,,,18/09/2026 10:44
-006bfeac-73b5-4fea-a78e-2671656f9e76,beyond.poker,premium,78.54,78.54,high,medium,6,namesilo,,,
+006bfeac-73b5-4fea-a78e-2671656f9e76,beyond.poker,premium,68.51,68.51,high,medium,6,spaceship,,,28/09/2026 13:28
 6fee7da3-7629-41c5-bf0f-78ec463bd294,gypsy.poker,available,5.98,85.98,high,low,5,namecheap,,,10/08/2026 17:21
 74207f46-bfb6-4b27-be86-37e57ef55e71,hostess.poker,available,14.99,88.49,high,low,7,name.com,,,17/09/2026 22:27
 51ad8aa8-2bf2-4e1d-a728-45d620e3821f,luminous.poker,available,5.98,85.98,high,low,8,namecheap,,,
@@ -158,6 +174,7 @@ fd73c080-4942-4073-b4d7-1e27b2d26c51,otc.poker,premium,640,640,high,low,3,namesi
 1f11b685-0512-4216-a465-05ba17aa77a2,salvation.poker,available,8.24,54.07,high,low,9,porkbun,,,28/09/2026 03:00
 5403dbc4-be71-425c-baf6-a1ff17c4448c,toulouse.poker,available,10.99,67.99,high,low,8,namesilo,,,27/09/2026 05:47
 cd8c4190-5f22-461b-9f21-11b4a287eab5,printable.poker,available,10.99,67.99,high,low,9,namesilo,,,27/09/2026 05:59
+13e69f97-401e-4a3f-9703-09f107f2ab9f,mahler.poker,available,8.24,54.07,medium,low,6,porkbun,,,29/09/2026 01:10
 c4b03d69-c6f0-4bda-aca1-e925a20d5fd8,money.poker,premium,3750,,high,medium,5,name.com,,,
 7d6399fe-7db9-4ffa-a0fc-f08a26dc422c,tomas.poker,available,5.38,54.02,medium,low,5,spaceship,,,28/09/2026 04:37
 cc255a9a-3dfc-4128-815c-03cabf9ed57e,ironically.poker,available,5.98,85.98,medium,low,10,namecheap,,,15/09/2026 09:24
@@ -175,6 +192,7 @@ ceb6cf2f-ea40-4e57-b4d2-86d4bb1ab666,imminent.poker,available,5.98,85.98,high,lo
 0cbe042a-9f0b-4dad-9a90-a609a971fe78,flattened.poker,available,5.98,85.98,medium,low,9,namecheap,,,18/08/2026 06:55
 1a06752b-a48f-43ee-a58f-7837b371a701,undefeated.poker,available,5.98,85.98,high,low,10,namecheap,,,12/09/2026 07:12
 7c186301-864d-454a-8d80-9e3c154ce4f1,richard.poker,available,10.99,67.99,high,low,7,namesilo,,,25/09/2026 17:40
+cff0f568-1c01-4f02-ac10-4d2e8b09f0cd,symbols.poker,available,10.99,67.99,medium,low,7,namesilo,,,29/09/2026 04:46
 0b8fbb64-f82d-464f-bc67-8ab16e0393ea,alienism.poker,available,14.99,88.49,medium,low,8,name.com,,,18/09/2026 07:34
 0f4dae70-d96e-4ce4-bd9f-33611e0f5c48,overleaf.poker,available,5.98,85.98,medium,low,8,namecheap,,,15/09/2026 18:27
 2989d9c6-cc3b-4084-a50b-6bad6c58d548,singing.poker,available,5.98,85.98,high,low,7,namecheap,,,11/08/2026 17:40
@@ -185,9 +203,11 @@ d22cc071-01d2-416a-99cf-bf370947b45b,hunger.poker,available,14.99,,high,low,6,na
 cd0efa19-c0b4-4740-a9e9-dba71a08b5e3,reachable.poker,available,5.98,85.98,high,low,9,namecheap,,,09/09/2026 10:55
 06efd10a-1632-4698-aec9-5124706f95db,goldilocks.poker,available,5.98,85.98,high,low,10,namecheap,,,20/09/2026 17:03
 14d88073-bd20-4b1c-b809-59b21be0d5ab,extended.poker,available,5.98,85.98,high,low,8,namecheap,,,14/08/2026 18:31
-6ed07382-45a8-4588-9cfe-73db1b0e48c2,land.poker,available,14.99,,high,low,4,name.com,,,
+6ed07382-45a8-4588-9cfe-73db1b0e48c2,land.poker,available,8.24,55.86,high,low,4,dynadot,,,28/09/2026 18:00
 847ba82b-276d-462b-aa7e-59f0fec0729c,warring.poker,available,5.98,85.98,medium,low,7,namecheap,,,13/09/2026 08:11
+3e11f533-2daa-41e1-b1d6-835266e4ba16,trooper.poker,available,10.5,,high,low,7,unstoppable,,,29/09/2026 00:23
 a4ae49ee-c051-4ec4-a9fb-6db50b9f167a,fictive.poker,available,5.98,85.98,medium,low,7,namecheap,,,07/08/2026 07:55
+9c5d541e-e64a-4d89-b93c-fbf1d5a0a2e2,childs.poker,available,10.5,,medium,low,6,unstoppable,,,28/09/2026 12:16
 01c39430-f600-42cb-91a7-c788755f9d3f,understand.poker,available,14.99,,high,low,10,name.com,,,
 deff4fbf-8990-4a79-85dd-939fc7efa15d,vagile.poker,available,5.98,85.98,low,low,6,namecheap,,,13/09/2026 00:47
 eb467cb5-5a69-4ea6-8e21-e9a553c42116,ackack.poker,available,5.98,85.98,medium,low,7,namecheap,,,
@@ -203,10 +223,12 @@ c2fbbbac-80ee-4501-a31a-34a483f93ec0,jillion.poker,available,5.98,85.98,medium,l
 d1605e53-e5d4-4a89-9123-a4eeca4c90c1,soundly.poker,available,10.99,67.99,medium,low,7,namesilo,,,16/09/2026 05:34
 1f8e69e2-4962-44f1-8091-d2a17eecf215,livid.poker,available,5.98,85.98,medium,low,5,namecheap,,,07/08/2026 02:24
 d763c6fe-06cd-454f-8ca5-e5237383e3e0,biological.poker,available,5.98,85.98,high,low,10,namecheap,,,22/09/2026 20:55
+415f3ee8-eef5-49dc-b9f3-6cd341edec07,paxton.poker,available,5.38,54.02,medium,low,6,spaceship,,,28/09/2026 14:39
 1e7e9487-3291-47d4-a9e0-d9dd84a55bbc,boozer.poker,available,5.98,85.98,medium,low,6,namecheap,,,
 e19a816a-e667-4c5d-85de-a3ff573410de,macaronic.poker,available,5.98,85.98,medium,low,9,namecheap,,,24/08/2026 12:44
 b67c4f21-3d4c-4714-a9ca-f5000d61f13a,companies.poker,available,10.99,67.99,high,low,9,namesilo,,,28/09/2026 04:54
 56df1827-5496-4a37-bc40-fee900319d64,user.poker,available,10.99,67.99,high,medium,4,namesilo,,,25/09/2026 00:16
+0eb46436-efe0-42d6-b4e0-b5e4d2a4757d,tuned.poker,available,10.99,67.99,medium,low,5,namesilo,,,28/09/2026 12:55
 ee7bd49b-2797-4d11-a25e-bb352358f34a,painting.poker,available,10.99,67.99,high,low,8,namesilo,,,25/09/2026 07:33
 eb4d6402-399d-4739-a7fd-5df211c067d3,men.poker,premium,625,,high,low,3,name.com,,,
 7aebed53-434f-49b9-aace-b946cab076ba,unlined.poker,available,5.98,85.98,medium,low,7,namecheap,,,12/09/2026 14:54
@@ -221,6 +243,7 @@ e5e12384-6197-4627-a602-ac054280943c,buckeye.poker,available,10.99,67.99,high,lo
 33e1817f-745e-47ad-8fa0-acd544af9c12,sauna.poker,available,14.99,,high,low,5,name.com,,,
 fcf2b34a-0c7e-4006-8f9e-e5af680dca0e,monica.poker,available,10.99,67.99,high,low,6,namesilo,,,25/09/2026 13:55
 f97ae665-00bf-4e3d-b756-a986d58a7f5b,dighted.poker,available,5.98,85.98,low,low,7,namecheap,,,14/08/2026 07:17
+3b4e5084-cae3-4d8c-82cb-3fccb57d0cfb,buys.poker,available,52.2,52.2,high,low,4,cloudflare,,,28/09/2026 09:07
 70a4c2bb-9370-4747-9967-77bd55ea05bc,awning.poker,available,10.99,67.99,high,low,6,namesilo,,,21/09/2026 10:12
 3d5b0a95-8042-4b76-b5a5-bc23305e95df,baksheesh.poker,available,14.99,88.49,medium,low,9,name.com,,,21/09/2026 15:52
 c0ef9ad7-f4cf-4a94-a8b0-b10e78f5d390,derisory.poker,available,5.98,85.98,medium,low,8,namecheap,,,14/08/2026 02:56
@@ -233,22 +256,31 @@ f83a3fb0-1bdf-415d-b264-d95e08efa82f,bigger.poker,available,5.98,85.98,high,low,
 46c8ae40-aca4-43cd-913c-f1e1cb0de448,greenville.poker,available,10.99,67.99,high,low,10,namesilo,,,25/09/2026 06:42
 fc885982-879f-4bf8-8474-d30251308a3d,thrasher.poker,available,10.99,67.99,medium,low,8,namesilo,,,18/09/2026 13:24
 a198a67e-a67d-40b7-95e3-06f5e05373d4,intently.poker,available,5.98,85.98,medium,low,8,namecheap,,,15/09/2026 08:56
+69fe6e8c-8cf4-4ae2-aa8b-076b34bb73ba,petra.poker,premium,640,640,high,low,5,namesilo,,,28/09/2026 11:54
 135be3b1-c167-4650-80da-ca6d040f751f,chinquapin.poker,available,10.99,67.99,medium,low,10,namesilo,,,18/09/2026 10:57
 f7f06a2a-a1c2-43b4-8451-a68f754f8528,busily.poker,available,5.98,85.98,medium,low,6,namecheap,,,14/09/2026 01:53
 1d7c5507-b02a-472c-9d4c-a94fa2aaf909,wassermann.poker,available,10.99,67.99,high,low,10,namesilo,,,21/09/2026 03:49
 d003a90b-838b-40ff-b8b2-fc080dfe5d3b,xiii.poker,available,5.98,85.98,high,low,4,namecheap,,,21/09/2026 11:34
 6133b933-1578-41b6-99ef-9951336f8510,ambiance.poker,available,10.99,67.99,high,low,8,namesilo,,,18/09/2026 16:40
+50cfc753-cf4c-4894-bfdb-fc52fcfedb1b,yeltsin.poker,available,5.38,54.02,medium,low,7,spaceship,,,28/09/2026 22:09
+ff0c534c-379d-498d-9da9-8464d2b7a9dd,grande.poker,available,52.2,52.2,medium,low,6,cloudflare,,,29/09/2026 02:58
 323862e5-9cc8-4b46-a95e-ef98377632d3,crane.poker,available,5.98,85.98,high,low,5,namecheap,,,24/09/2026 19:02
 e52425c8-74b4-4fa1-9442-1bfa9d2c2dec,immobile.poker,available,5.98,85.98,medium,low,8,namecheap,,,21/08/2026 21:05
 1a10aba4-7e90-4e81-86c0-8dc4c5b0b5ed,peppery.poker,available,5.98,85.98,medium,low,7,namecheap,,,08/09/2026 15:37
 a889c71e-5f39-48cc-ac6d-3bf383d14cfd,accession.poker,available,5.98,85.98,high,low,9,namecheap,,,16/09/2026 22:09
 4921653a-fe59-4c8e-aa42-3d5f2955f59c,additive.poker,available,5.98,85.98,high,low,8,namecheap,,,
 489058d0-0bdb-4b35-9e59-93fabf96a918,tenderness.poker,available,10.99,67.99,high,low,10,namesilo,,,17/09/2026 14:18
+53f1aff6-1893-43ec-b224-e6845ceb06c4,precambrian.poker,available,10.99,67.99,medium,low,11,namesilo,,,29/09/2026 04:02
 33f57f85-a317-4161-ab6d-7507922c95cf,thomas.poker,available,10.99,67.99,high,medium,6,namesilo,,,25/09/2026 04:57
+f3b2652d-c388-466b-98fb-5f3e0f5f0eaa,chet.poker,available,5.38,54.02,high,low,4,spaceship,,,29/09/2026 03:38
 e7152913-aca5-4bdf-bcd2-374fdfe83798,rumors.poker,available,10.99,67.99,medium,low,6,namesilo,,,27/09/2026 09:37
 265b45bc-6824-46d9-b473-b57fa7524955,shaggy.poker,available,5.98,85.98,medium,low,6,namecheap,,,11/08/2026 11:17
+4d6640f6-0b7c-4198-b50b-a560541e5722,marianne.poker,available,5.38,54.02,medium,low,8,spaceship,,,29/09/2026 03:47
+5a431df6-989b-4b8e-8faf-7e76efa12361,herzog.poker,available,52.2,52.2,high,low,6,cloudflare,,,28/09/2026 16:13
 c0207a72-c3d5-4434-a348-3425db1d5a54,alprazolam.poker,available,10.99,67.99,medium,low,10,namesilo,,,18/09/2026 14:08
 4b829863-45cf-4dbb-81fb-58edadbda8d1,ordinance.poker,available,5.98,85.98,high,low,9,namecheap,,,09/09/2026 13:13
+5473fd4a-64d0-48e2-85bf-5b2864cb539f,jenna.poker,available,10.99,67.99,medium,low,5,namesilo,,,29/09/2026 04:01
+fe836293-ee7d-4d4c-b795-4fb0941f6723,differ.poker,available,8.24,54.07,high,low,6,porkbun,,,28/09/2026 20:49
 58de2f09-055b-46a9-b62f-7383888beeb8,buffalo.poker,premium,650,650,high,low,7,namecheap,,,18/09/2026 19:11
 7f715345-a6f9-41b9-a2b3-3aa727b558f1,babyish.poker,available,5.98,85.98,medium,low,7,namecheap,,,08/08/2026 03:53
 715fdfa4-6655-4ee0-97dd-5bf2aada62ef,lockbox.poker,available,14.99,,high,low,7,name.com,,,
@@ -269,6 +301,7 @@ c4902bd6-3297-45bb-a859-2c888efc829c,sanctions.poker,available,10.99,67.99,mediu
 5be1e793-c286-4440-bba8-bce5d3b55667,lease.poker,available,5.98,85.98,high,low,5,namecheap,,,09/09/2026 14:19
 0e07ca86-3ae1-4847-9d27-14670830d3b0,pipe.poker,available,8.24,54.07,high,low,4,porkbun,,,27/09/2026 21:32
 32521295-1432-4a70-954d-76ddaa40c94e,bipolar.poker,available,5.98,85.98,high,low,7,namecheap,,,10/08/2026 05:30
+804f4885-8f5b-452d-a289-815a552dee65,appearances.poker,available,8.24,55.86,low,low,11,dynadot,,,28/09/2026 23:35
 7d69bd47-bef5-4991-b526-9900de23da5a,concerning.poker,available,52.2,52.2,high,low,10,cloudflare,,,28/09/2026 03:24
 85d30282-8118-49c3-a882-e0614cfcf1a2,instruments.poker,available,5.38,54.02,high,low,11,spaceship,,,28/09/2026 04:58
 39bf66b6-2682-4653-93c4-59a8def6a354,fusiform.poker,available,5.98,85.98,medium,low,8,namecheap,,,12/08/2026 08:02
@@ -289,6 +322,8 @@ dc502242-a089-4ae8-a280-404cd425e8c4,throngs.poker,available,10.99,67.99,medium,
 8d59a58e-399e-44aa-819a-08cd27803da4,activate.poker,available,10.5,,high,low,8,unstoppable,,,28/09/2026 06:46
 0612f4da-577d-4bc0-849f-8110a4906b4f,ease.poker,available,5.98,85.98,high,low,4,namecheap,,,27/09/2026 13:14
 dff122bb-c06c-4bbc-b15c-218f46cf24a5,twit.poker,available,5.98,85.98,medium,low,4,namecheap,,,11/09/2026 09:11
+de77abb4-3d87-4f90-9dbf-224cdfa95adf,burrows.poker,available,8.24,55.86,medium,low,7,dynadot,,,29/09/2026 03:16
+1b0aa526-430c-4707-a28d-ec43609555ee,thy.poker,available,52.2,52.2,medium,low,3,cloudflare,,,28/09/2026 15:36
 641b3860-aaa7-49cd-9200-644c6dca056f,impression.poker,available,14.99,,high,low,10,name.com,,,
 1df22ecb-abd8-4c5d-8005-08d1ced8e968,grandchildren.poker,available,5.98,85.98,medium,low,13,namecheap,,,
 d5dedf42-9594-4231-aff6-5070ab24043f,worked.poker,available,14.99,,high,low,6,name.com,,,
@@ -297,8 +332,11 @@ f7dd8141-a60b-4e8d-a918-32de2ac2d49b,cultural.poker,available,5.98,85.98,high,lo
 524c6609-030e-42f8-ab90-1f4a73e68d45,brigade.poker,available,5.98,85.98,high,low,7,namecheap,,,24/09/2026 10:19
 eb53d3e0-560a-40db-8e3d-89a53cff8da7,neckless.poker,available,5.98,85.98,medium,low,8,namecheap,,,03/09/2026 14:41
 7306dbd4-8761-404a-888b-6bd720f9e033,asafoetida.poker,available,5.98,85.98,medium,low,10,namecheap,,,20/09/2026 12:43
+686e5bc5-151d-406b-ba93-c0483b948ded,coroner.poker,available,10.5,,medium,low,7,unstoppable,,,28/09/2026 09:27
 1135f6da-1971-49ce-b8bc-ae9e467b3bbc,trapped.poker,available,5.98,85.98,medium,low,7,namecheap,,,07/08/2026 11:08
+ba433730-4b8e-4f4d-a3af-1538b28cfb10,sbs.poker,premium,640,640,high,low,3,namesilo,,,29/09/2026 03:45
 dc80d02c-271a-4cfd-943c-c522001582bf,aerobic.poker,available,5.98,85.98,high,low,7,namecheap,,,21/09/2026 21:01
+99b4d1f8-f0e6-4185-941a-f7dab6b79595,vicky.poker,available,5.98,85.98,medium,low,5,namecheap,,,29/09/2026 03:57
 e098e4af-dd32-42a7-b461-3df683c494a8,delivered.poker,available,5.98,85.98,medium,low,9,namecheap,,,25/09/2026 18:04
 73f68ffa-9a43-4c7c-892e-24423053e0c7,twisted.poker,available,5.98,85.98,high,low,7,namecheap,,,25/08/2026 01:43
 a260a33f-416e-4cc0-a2db-c130f8b0e1e3,beckett.poker,available,10.99,67.99,high,low,7,namesilo,,,22/09/2026 22:39
@@ -309,6 +347,7 @@ e24ebc9d-526c-4081-ab6a-46f473bc641f,trusty.poker,available,5.98,85.98,high,low,
 d5b66cbf-bd22-428b-8b11-4ad31e3330f3,speeds.poker,available,10.99,67.99,medium,low,6,namesilo,,,20/09/2026 02:30
 33d7ce3b-730a-4c8e-9cf2-9bf240eebddf,sleeping.poker,available,5.38,54.02,high,low,8,spaceship,,,27/09/2026 22:26
 c76db838-aa6e-4d23-89e5-1a9a7f0a658a,iodine.poker,available,5.98,85.98,high,low,6,namecheap,,,21/08/2026 17:24
+df490adf-a27b-4cf2-b43f-839eb4299b70,airplanes.poker,available,5.38,54.02,medium,low,9,spaceship,,,28/09/2026 22:55
 1e334afd-4941-423d-ac38-3abbab5c85e3,keyset.poker,available,5.98,85.98,low,low,7,namecheap,,,21/09/2026 00:17
 cefcbc52-e1c1-4596-84b4-3ce0e9603722,similitude.poker,available,10.99,67.99,medium,low,10,namesilo,,,18/09/2026 07:51
 9936287b-ea21-4246-b8f7-06f0a625843e,qualities.poker,available,5.38,54.02,medium,low,9,spaceship,,,28/09/2026 08:30
@@ -322,14 +361,16 @@ f2db8076-7317-4590-a387-82ea4774d773,masterly.poker,available,5.98,85.98,high,lo
 e6925fa9-825f-4457-9cab-c42149fb2c9d,lumpen.poker,available,5.98,85.98,medium,low,6,namecheap,,,24/08/2026 11:14
 a826aafc-9cb7-4771-91c4-3eba8c1f998e,neighborly.poker,available,5.98,85.98,high,low,10,namecheap,,,03/09/2026 15:16
 b20e4750-9e53-427c-bc79-93b55d9dbcc9,bawd.poker,available,14.99,88.49,medium,low,4,name.com,,,13/08/2026 14:22
-7b441530-a865-4259-a87c-b41d2143b254,genesis.poker,available,14.99,,high,low,7,name.com,,,
+7b441530-a865-4259-a87c-b41d2143b254,genesis.poker,available,10.99,67.99,high,medium,7,namesilo,,,29/09/2026 03:33
 ac7f11b7-4c2c-4e15-8dbe-910b7431a0eb,ameboid.poker,available,5.98,85.98,medium,low,7,namecheap,,,
 1c0b00e6-25c9-4f18-a82c-03efc1045dc5,terracotta.poker,available,10.99,67.99,high,low,11,namesilo,,,17/09/2026 09:12
 58af41d9-6803-44c8-abca-51de39f4e798,occupy.poker,available,10.99,67.99,high,low,6,namesilo,,,23/09/2026 12:12
+51a80276-ecb8-4889-a26f-9289723c2af7,hamid.poker,available,5.38,54.02,medium,low,5,spaceship,,,28/09/2026 16:11
 d9791fe4-0fea-4e52-924c-82eba1ecb8da,andiron.poker,available,10.99,67.99,medium,low,7,namesilo,,,19/09/2026 04:06
 17b2c4fc-6dca-45a5-9651-4e48a25e784a,miserable.poker,available,5.98,85.98,high,low,9,namecheap,,,
 53341914-bb87-47df-993f-e8cf49e06c4d,duke.poker,premium,78.54,78.54,high,low,4,namesilo,,,
 55676898-5e16-49c9-a175-42da7521571a,pained.poker,available,5.98,85.98,medium,low,6,namecheap,,,04/09/2026 01:26
+bb33fa13-61dd-4f21-9bc6-b62eaa1d7823,graeme.poker,available,52.2,52.2,medium,low,6,cloudflare,,,29/09/2026 03:58
 ef2324d1-000c-49fc-b9ef-002d6cbd8505,araneae.poker,available,10.99,67.99,medium,low,7,namesilo,,,20/09/2026 00:06
 721e7b1d-d23c-4aea-8cbf-a78da31e3c05,arcuate.poker,available,5.98,85.98,medium,low,7,namecheap,,,06/08/2026 14:49
 d8de65a3-8d12-4a66-b62c-aad2c3def7c2,erotism.poker,available,10.99,67.99,medium,low,7,namesilo,,,18/09/2026 16:15
@@ -340,6 +381,7 @@ b213619a-dc3a-44fd-83bb-5588d5395300,centrist.poker,available,5.98,85.98,medium,
 866f9ef6-1849-42a2-be6e-e10d8a63dc64,energizer.poker,available,10.99,67.99,high,low,9,namesilo,,,19/09/2026 09:06
 d6f903c1-77ee-41a6-b8b3-95b2d913471e,scurvy.poker,available,5.98,85.98,medium,low,6,namecheap,,,
 66fdf55f-f2f7-4e88-aaa7-c7c68fb86dc8,pipes.poker,available,5.98,85.98,high,low,5,namecheap,,,27/09/2026 22:20
+d065252b-b5c7-4e95-a327-b4c2d3b715b1,arise.poker,available,8.24,54.07,high,low,5,porkbun,,,28/09/2026 10:48
 b8714de1-3157-42aa-96d7-f98b3feb2353,boondocks.poker,available,10.99,67.99,medium,low,9,namesilo,,,21/09/2026 14:32
 cb419d1d-8022-4a7d-aa6a-81c3231d7638,footling.poker,available,5.98,85.98,medium,low,8,namecheap,,,18/08/2026 03:30
 9f4e475e-ee14-4a9d-a51d-af15e10b8e31,weight.poker,available,5.98,85.98,high,low,6,namecheap,,,19/09/2026 19:07
@@ -379,11 +421,13 @@ cc2b48b7-857a-4e80-8fd7-5167fbbdc552,luscious.poker,available,5.98,85.98,high,lo
 8bea70d1-d522-4d12-97d2-3379461ab162,notifiable.poker,available,5.98,85.98,medium,low,10,namecheap,,,03/09/2026 22:10
 4e89c73b-1276-4381-8c75-f0adeba13f61,votes.poker,available,10.99,67.99,high,low,5,namesilo,,,17/09/2026 13:26
 ad666d64-2d16-4799-b831-40198f9d3d99,unsavory.poker,available,5.98,85.98,medium,low,8,namecheap,,,14/08/2026 13:05
+8cb180ef-2638-4be6-bddb-c5a60b44acbf,maya.poker,available,52.2,52.2,high,medium,4,cloudflare,,,28/09/2026 10:22
 a85342a4-17e1-4af3-8bab-297328c0d5d8,unerasable.poker,available,5.98,85.98,medium,low,10,namecheap,,,22/08/2026 02:39
 25ebc424-e4ed-49a5-a181-6db5062c7e99,punch.poker,available,10.99,67.99,high,low,5,namesilo,,,27/09/2026 03:37
 c8229d5b-405d-4a04-a429-8e12327e7d23,turnovers.poker,available,10.99,67.99,medium,low,9,namesilo,,,19/09/2026 22:02
 b8f06d4f-b5bd-4cff-8f8f-af1259defd65,saws.poker,available,10.99,67.99,medium,low,4,namesilo,,,20/09/2026 09:02
-55cefa2d-6a45-43cb-9946-4dae9d17353f,utter.poker,available,14.99,,high,low,5,name.com,,,
+55e53a9c-9d25-4dcc-80a3-049e143942f0,tags.poker,available,10.99,67.99,low,low,4,namesilo,,,28/09/2026 23:26
+55cefa2d-6a45-43cb-9946-4dae9d17353f,utter.poker,available,10.5,,medium,low,5,unstoppable,,,28/09/2026 10:04
 1238acc2-55f9-4fac-a10e-166823ecbcca,decayable.poker,available,5.98,85.98,low,low,9,namecheap,,,13/08/2026 20:54
 4be9c105-9f50-4a13-af63-997fae9f02e5,bone.poker,available,10.99,67.99,high,low,4,namesilo,,,22/09/2026 23:37
 621485f8-3ed4-434b-97b5-748a83aff6eb,briskly.poker,available,5.98,85.98,medium,low,7,namecheap,,,14/09/2026 01:33
@@ -397,9 +441,9 @@ f20f1655-f42c-4bd3-8e8b-94c102a21c2a,tempting.poker,available,10.99,67.99,high,l
 679f8639-c826-4939-8003-4e7eb7cf1499,probiotic.poker,available,52.2,52.2,high,low,9,cloudflare,,,28/09/2026 02:50
 39a01130-f2aa-45bf-8eb3-2fe59e6c4b17,daunting.poker,available,14.99,88.49,medium,low,8,name.com,,,13/08/2026 18:48
 5b9c4f6f-3a46-49a7-a871-5069d281ce28,catalog.poker,available,5.98,85.98,high,low,7,namecheap,,,24/09/2026 13:07
-7a511a7f-ce51-46b9-aead-30318c79682d,satan.poker,available,,,high,low,5,,,,
 a3189650-c70e-4258-a0af-5c9ea80f1abc,waist.poker,available,52.2,52.2,high,low,5,cloudflare,,,28/09/2026 06:51
 8d769a0a-c971-49d0-a409-62d764a53a31,conduction.poker,available,14.99,,high,low,10,name.com,,,
+81f32566-d35e-4b21-92d7-12d4046fc2ee,kang.poker,available,52.2,52.2,medium,low,4,cloudflare,,,28/09/2026 11:38
 b72855b9-4b5d-448d-9226-bc5e1796d6da,spirally.poker,available,5.98,85.98,medium,low,8,namecheap,,,16/09/2026 06:13
 9c73b8cc-f840-4294-b611-67ddddc161e0,bandeau.poker,available,10.99,67.99,medium,low,7,namesilo,,,22/09/2026 01:04
 ce8349dd-696c-4698-9a80-5ea1d1d0c274,simulate.poker,available,5.98,85.98,high,low,8,namecheap,,,10/09/2026 05:47
@@ -418,7 +462,7 @@ dad12023-4931-4572-8137-3452a8c7047d,midst.poker,available,5.98,85.98,medium,low
 2845e133-eff5-4f10-a97e-c16b0f2c22a9,ourselves.poker,available,10.99,67.99,medium,low,9,namesilo,,,27/09/2026 08:55
 db1746f7-1858-4dd6-a77a-5e25bb7cf040,issus.poker,available,10.99,67.99,medium,low,5,namesilo,,,22/09/2026 15:11
 6d50885e-8c84-4841-bfa1-081ac8f3dbc9,azalea.poker,available,10.99,67.99,high,low,6,namesilo,,,21/09/2026 11:00
-ebc44891-ffdf-41ed-8607-d686074d00b9,dairy.poker,available,10.99,67.99,high,low,5,namesilo,,,26/09/2026 00:42
+ebc44891-ffdf-41ed-8607-d686074d00b9,dairy.poker,available,10.99,67.99,high,low,5,namesilo,,,28/09/2026 22:44
 a17133b1-fbf0-493b-a878-0c0805f751c0,adman.poker,available,10.99,67.99,medium,low,5,namesilo,,,17/09/2026 08:40
 77fa293f-7a4a-4700-a9b8-4b682a8abf8d,lenient.poker,available,5.98,85.98,high,low,7,namecheap,,,22/08/2026 23:46
 dd209556-71ac-453f-93d3-3fd40d990237,hipaa.poker,available,14.99,,medium,low,5,name.com,,,
@@ -447,8 +491,10 @@ ec15e1e6-48aa-4aa7-899f-b86c4466c7cd,copious.poker,available,5.98,85.98,high,low
 0763fb86-3fc9-4c5d-82eb-4527edd1f06f,rhombic.poker,available,5.98,85.98,medium,low,7,namecheap,,,09/09/2026 16:43
 7d71ab56-3089-41ce-ae6e-0c938d6f00e2,carbonara.poker,available,10.99,67.99,high,low,9,namesilo,,,24/09/2026 12:46
 fb180dab-f01e-400a-80de-2585946940cb,brambly.poker,available,5.98,85.98,medium,low,7,namecheap,,,11/08/2026 01:59
+2708f40d-b4ed-4214-a707-ff4b4328e8d3,depths.poker,available,10.5,,medium,low,6,unstoppable,,,28/09/2026 23:11
 81047127-9550-435a-8e4f-a27e7384f090,dextral.poker,available,5.98,85.98,medium,low,7,namecheap,,,14/08/2026 05:28
 9bcb9272-0c2f-40aa-bb0d-caa56f19969d,miracle.poker,available,14.99,,high,low,7,name.com,,,
+93292aa7-a62e-45a0-bfcf-fdee0743a715,flashing.poker,available,8.24,54.07,medium,low,8,porkbun,,,28/09/2026 19:14
 c8e79630-cf47-42de-8ee9-c5ae7fc0d687,stayed.poker,available,10.99,67.99,medium,low,6,namesilo,,,27/09/2026 02:56
 ad58bcb2-0a34-4c85-bb46-6de59403eb8d,aflatoxin.poker,available,5.98,85.98,medium,low,9,namecheap,,,17/09/2026 15:06
 cd6fbc08-b805-4090-9be5-1acbb425bbb3,shannon.poker,available,14.99,88.49,high,low,7,name.com,,,25/09/2026 04:16
@@ -459,6 +505,7 @@ fe4c489c-c827-42d4-a0da-b41871e30164,unchanging.poker,available,5.98,85.98,mediu
 b5ec39b2-6a04-4863-84bc-e32e68c7358a,lamentably.poker,available,5.98,85.98,low,low,10,namecheap,,,14/09/2026 11:50
 53f51555-dd98-42d7-a16f-9656cb96315f,bivouac.poker,available,5.98,85.98,medium,low,7,namecheap,,,11/08/2026 15:54
 0341ffa8-690b-4ff6-905d-82f377a7f556,camisole.poker,available,5.98,85.98,high,low,8,namecheap,,,24/09/2026 11:52
+617da2c5-9e83-4ec9-a2ef-769c8498a784,winkler.poker,available,10.99,67.99,high,low,7,namesilo,,,29/09/2026 03:40
 c5c982b0-02c4-4c9c-96d3-606ab01fb8f4,viciously.poker,available,5.98,85.98,medium,low,9,namecheap,,,14/09/2026 01:35
 3919628b-d81d-4694-8f38-9eeecba436a5,catatonic.poker,available,5.98,85.98,medium,low,9,namecheap,,,11/08/2026 21:14
 27b5a0d8-89c6-4f52-a420-d47837f9a138,birthplace.poker,available,5.98,85.98,high,low,10,namecheap,,,23/09/2026 21:18
@@ -469,6 +516,7 @@ f3c78213-a991-4aed-a50d-a278e9da19ca,racking.poker,available,5.98,85.98,medium,l
 12439b77-b05d-4791-9109-fd023c085f7a,antonymous.poker,available,5.98,85.98,medium,low,10,namecheap,,,05/08/2026 20:16
 5f6c1aee-b274-4235-8b36-a94117021eea,growing.poker,available,5.98,85.98,high,low,7,namecheap,,,19/09/2026 05:23
 fb2bc727-9da3-4724-99f3-054ec4438a7e,chummy.poker,available,5.98,85.98,high,low,6,namecheap,,,11/08/2026 07:44
+deb2f5fb-83ab-4d02-8d3e-838c4cac8eb9,crosses.poker,available,5.38,54.02,medium,low,7,spaceship,,,28/09/2026 17:44
 34e5851b-2913-4c22-80db-b0e1a590049f,because.poker,available,14.99,,high,low,7,name.com,,,
 adaf7726-e99a-48ca-bd90-445d1a83015b,obey.poker,available,14.99,,high,low,4,name.com,,,
 b80b9682-7a97-405d-87f1-e08e8ba984a6,grating.poker,available,5.98,85.98,medium,low,7,namecheap,,,20/08/2026 18:26
@@ -481,9 +529,11 @@ d11c21b7-4483-4137-bc2c-9e6a449fedec,vii.poker,available,5.98,85.98,high,low,3,n
 086b60e5-0b7f-4807-b110-e8251c3fd1d3,broadsheet.poker,available,5.98,85.98,high,low,10,namecheap,,,11/08/2026 05:08
 7bcc8328-2a39-45d3-9432-417b558b1413,splattered.poker,available,14.99,88.49,medium,low,10,name.com,,,13/08/2026 15:21
 c5d0ac7b-3d2e-4a52-ae39-9ed0ea577483,uss.poker,available,5.98,85.98,high,low,3,namecheap,,,25/09/2026 13:39
+2d1b9bc7-3c75-4e52-9d9c-0f3de8dfa0d3,regards.poker,available,5.38,54.02,medium,low,7,spaceship,,,28/09/2026 12:38
 254ecd3c-337a-45c9-befb-f40a8b23d9a0,unduly.poker,available,5.98,85.98,medium,low,6,namecheap,,,16/09/2026 10:01
 ab5a2ced-df55-4cb6-b0bd-8b0a3e8e4c5b,excavate.poker,available,5.98,85.98,high,low,8,namecheap,,,21/08/2026 10:33
 2e597265-fea7-424e-9fe9-498aa22ddac7,marcus.poker,available,10.99,67.99,high,low,6,namesilo,,,25/09/2026 17:20
+325743fd-3dfa-41ef-98b9-4ada90d3e8f2,surfing.poker,available,10.99,67.99,high,low,7,namesilo,,,29/09/2026 02:15
 d75a8fe7-00af-45fb-8466-f650d1e03821,sectioned.poker,available,5.98,85.98,medium,low,9,namecheap,,,10/09/2026 01:20
 ad8384a0-2323-4624-b6c8-00ab6c20772c,hotshot.poker,available,5.98,85.98,high,low,7,namecheap,,,21/09/2026 17:48
 2ecf51fd-9a73-4006-934a-45903499ff4f,sunglass.poker,available,14.99,,high,low,8,name.com,,,
@@ -496,14 +546,15 @@ cc2f9002-11fd-4dfa-b563-d41d30cb1482,lysogenic.poker,available,5.98,85.98,medium
 90338259-36cd-4c4b-ac37-96942b23cf7d,poised.poker,available,5.98,85.98,high,low,6,namecheap,,,17/08/2026 11:38
 df261333-49d1-48b7-a131-e166c46dd88d,promise.poker,available,14.99,,high,low,7,name.com,,,
 fadcc195-4c77-4b41-897c-df42bee96299,brooke.poker,available,10.99,67.99,high,low,6,namesilo,,,25/09/2026 02:29
-dd135eb5-4114-48e7-8938-4c6e7e5f4183,nearly.poker,available,14.99,,high,low,6,name.com,,,
+dd135eb5-4114-48e7-8938-4c6e7e5f4183,nearly.poker,available,10.99,67.99,high,low,6,namesilo,,,28/09/2026 11:55
 6403dfc9-ff3d-4404-a3f9-07a34213bd1d,johnston.poker,available,10.99,67.99,high,low,8,namesilo,,,25/09/2026 07:53
 10c07bd9-9a1d-4ace-ba42-666f0f035510,partizan.poker,available,5.98,85.98,high,low,8,namecheap,,,08/09/2026 02:09
-0bf455d7-47f9-415b-976a-09ab80101885,student.poker,premium,88.49,,high,low,7,name.com,,,
+0bf455d7-47f9-415b-976a-09ab80101885,student.poker,premium,66.5,,high,low,7,unstoppable,,,29/09/2026 03:37
 1d8e9b63-dd1c-46e6-bd4a-1f1c6a544003,burbling.poker,available,5.98,85.98,medium,low,8,namecheap,,,11/08/2026 10:10
 72e791b6-6a26-4d51-8c6a-01c5ad30e2d9,descent.poker,available,5.98,85.98,high,low,7,namecheap,,,08/09/2026 13:07
 66cfc2c7-a1ba-4daf-a6bf-417b2a50507c,outline.poker,available,10.99,67.99,high,low,7,namesilo,,,24/09/2026 23:45
 2e4bae03-bb24-4909-9f43-1565eb81cf87,steakhouse.poker,available,5.98,85.98,high,low,10,namecheap,,,24/09/2026 14:46
+3d485bdf-2ff4-4dcd-9311-70f2feaeb278,skins.poker,available,10.99,67.99,high,low,5,namesilo,,,29/09/2026 05:06
 7470f03b-87f8-47ee-a3ce-acd8b21df70f,slashing.poker,available,5.98,85.98,medium,low,8,namecheap,,,10/09/2026 10:08
 6a622d7d-cb90-4758-9a42-b854188d92c0,exodus.poker,available,5.98,85.98,high,low,6,namecheap,,,24/09/2026 06:52
 bc1bb4f5-f0bb-4c88-975b-23660379eff7,undogmatic.poker,available,5.98,85.98,medium,low,10,namecheap,,,18/08/2026 14:50
@@ -511,6 +562,7 @@ bc1bb4f5-f0bb-4c88-975b-23660379eff7,undogmatic.poker,available,5.98,85.98,mediu
 18c06eb1-4758-4a64-b724-18dbfa032536,boyish.poker,available,5.98,85.98,high,low,6,namecheap,,,11/08/2026 00:04
 f7792d04-7913-4822-a9cb-862010f3fd63,luxurious.poker,available,5.98,85.98,high,low,9,namecheap,,,14/08/2026 00:57
 91c2aea0-8c11-4d06-b107-eae27c79060c,accentor.poker,available,10.99,67.99,medium,low,8,namesilo,,,16/09/2026 21:58
+ae075568-0912-4df8-93ca-1e9fa0982e20,ruins.poker,available,5.38,54.02,low,low,5,spaceship,,,28/09/2026 12:46
 e115a9a2-2e2c-49df-9cbc-2c1400876392,opportunity.poker,available,10.99,67.99,high,low,11,namesilo,,,27/09/2026 02:17
 a9b888b8-7dfd-4aff-b328-2de6a03362cd,hoard.poker,available,5.98,85.98,medium,low,5,namecheap,,,12/08/2026 16:57
 a89e1bef-69f6-45db-82e1-3541f3fb413d,majors.poker,available,10.99,67.99,high,low,6,namesilo,,,23/09/2026 14:46
@@ -561,6 +613,7 @@ e75ced39-9eea-401b-9b55-3f11755d220e,newsgroup.poker,available,14.99,,medium,low
 41ec2a03-dcb9-432d-b138-b7d89b7e7d50,crosby.poker,available,5.98,85.98,high,low,6,namecheap,,,23/09/2026 17:15
 3607a8cf-f777-4505-9966-52db566ae55b,moderately.poker,available,10.99,67.99,medium,low,10,namesilo,,,25/09/2026 12:00
 a763cf10-b3f2-4ae0-a2c5-0c63cdce3762,scenes.poker,available,10.99,67.99,high,low,6,namesilo,,,18/09/2026 15:27
+e5751f5d-0259-4e9d-bd9e-b9a8bb56953f,countryside.poker,available,10.5,,high,low,11,unstoppable,,,28/09/2026 15:50
 a2e3d021-3f45-4796-baa8-4d9dd28e1ca4,whacking.poker,available,5.98,85.98,medium,low,8,namecheap,,,13/09/2026 11:09
 11623ea8-b29c-46b6-b211-a06ddce09017,ugh.poker,available,14.99,,medium,low,3,name.com,,,
 d16c5629-0986-4c48-bce8-06eb2f92bc2c,custody.poker,available,10.99,67.99,high,low,7,namesilo,,,24/09/2026 20:41
@@ -570,7 +623,7 @@ c924ac0c-f328-4891-824a-867a9b7289ff,unstated.poker,available,5.98,85.98,medium,
 114223c7-5db8-48e7-8833-5350e3981585,quantities.poker,available,14.99,,low,low,10,name.com,,,
 b59b9151-a9fd-4194-ae92-9eda1c9e2916,hitter.poker,available,10.99,67.99,high,low,6,namesilo,,,22/09/2026 14:18
 8c23c851-dbe0-4475-bea9-49cfa3204033,dye.poker,available,14.99,,high,low,3,name.com,,,
-81352602-8f39-4936-a6b9-819b9f26cce8,lots.poker,available,14.99,,high,low,4,name.com,,,
+81352602-8f39-4936-a6b9-819b9f26cce8,lots.poker,available,5.38,54.02,high,low,4,spaceship,,,28/09/2026 11:29
 8bd34452-1236-40a9-8af3-b1a7bdc22e86,positional.poker,available,5.98,85.98,high,low,10,namecheap,,,09/09/2026 00:06
 9566d0e5-692b-420c-9860-78f7e5f1d9ac,calibre.poker,available,10.99,67.99,high,low,7,namesilo,,,24/09/2026 11:45
 aa14ad53-fa36-41e1-a8bf-469f24691c8b,abandon.poker,available,5.98,85.98,high,low,7,namecheap,,,14/08/2026 03:52
@@ -585,7 +638,7 @@ e0a5123a-0ebf-4a70-9dee-095dd038a13f,antipope.poker,available,10.99,67.99,medium
 8e975b46-462d-4d11-88b6-ee9859b2b021,secretary.poker,premium,78.54,78.54,high,low,9,namesilo,,,25/09/2026 22:37
 d721a6fb-9396-4e23-abab-02ad4b899cca,monkish.poker,available,5.98,85.98,medium,low,7,namecheap,,,25/08/2026 04:53
 b75d281d-30c3-4f64-9670-32fdaaa92119,pedant.poker,available,5.98,85.98,medium,low,6,namecheap,,,09/09/2026 23:15
-26e526cf-a0e2-42ec-98bd-197cf71a4eea,almost.poker,available,14.99,,high,low,6,name.com,,,
+26e526cf-a0e2-42ec-98bd-197cf71a4eea,almost.poker,available,8.24,54.07,high,low,6,porkbun,,,28/09/2026 11:54
 8bd352ed-01e2-4d67-918d-398f819df6ee,endogenic.poker,available,5.98,85.98,medium,low,9,namecheap,,,17/08/2026 01:13
 1841f34a-151f-4a51-a741-b9e7b17f17d0,necklace.poker,available,52.2,52.2,high,low,8,cloudflare,,,27/09/2026 14:59
 c365d424-70df-4b35-ac48-7350070aa00a,marty.poker,available,10.99,67.99,high,low,5,namesilo,,,25/09/2026 15:43
@@ -594,7 +647,7 @@ c365d424-70df-4b35-ac48-7350070aa00a,marty.poker,available,10.99,67.99,high,low,
 22761196-3237-49b2-91f7-b608e1678fdf,hardback.poker,available,5.98,85.98,medium,low,8,namecheap,,,21/08/2026 00:40
 ca30f71c-0569-4de6-b11f-ddf50fee0e9e,cathartic.poker,available,5.98,85.98,high,low,9,namecheap,,,05/08/2026 22:20
 b5b10f80-7924-4212-9adc-1cc7aea0dbe2,maitland.poker,available,5.38,54.02,medium,low,8,spaceship,,,28/09/2026 01:57
-ed5fcbaf-48bd-4d9b-a2b9-e2f1c96f72d3,worse.poker,available,14.99,,high,low,5,name.com,,,
+ed5fcbaf-48bd-4d9b-a2b9-e2f1c96f72d3,worse.poker,available,52.2,52.2,high,low,5,cloudflare,,,28/09/2026 10:56
 2b8207f4-6cdd-488d-b951-2711c0eb073a,sandhopper.poker,available,10.99,67.99,medium,low,10,namesilo,,,22/09/2026 18:44
 cfe7dc09-b308-47a7-9a4b-a83716d23241,process.poker,available,10.5,85.98,high,low,7,unstoppable,,,28/09/2026 08:33
 63a8c567-0161-4aad-97da-e952cfc31fe7,geniality.poker,available,5.98,85.98,high,low,9,namecheap,,,17/09/2026 14:00
@@ -610,7 +663,7 @@ db5c333c-9b49-4ad3-a9a2-1b89f9450e67,almighty.poker,available,5.98,85.98,high,lo
 eff7eef1-434d-404d-a36a-f49508563f0f,aquatic.poker,available,5.98,85.98,high,low,7,namecheap,,,06/08/2026 10:45
 0c39566c-a852-41d4-bc11-b4302fcb438d,infra.poker,available,5.98,85.98,high,low,5,namecheap,,,15/09/2026 08:17
 16ab5d08-5f5c-4259-8ea1-72b5cd5ea620,oversee.poker,available,14.99,,high,low,7,name.com,,,
-8e5b30c6-98f6-47f3-86e5-9aae8d1e9811,state.poker,premium,78.54,78.54,high,medium,5,namesilo,,,
+8e5b30c6-98f6-47f3-86e5-9aae8d1e9811,state.poker,premium,66.5,78.54,high,medium,5,unstoppable,,,29/09/2026 03:14
 bf9f206f-4483-4453-b28b-697ff0e0c306,newly.poker,available,5.98,85.98,high,low,5,namecheap,,,18/08/2026 15:17
 4893ae00-ba66-4618-966e-a34991be8e40,bodyguard.poker,available,5.98,85.98,high,low,9,namecheap,,,24/09/2026 06:33
 d8b287c6-bd9d-42a7-a2fb-60728b3744f2,embracing.poker,available,14.99,,high,low,9,name.com,,,
@@ -627,12 +680,14 @@ d43346fd-6e56-4488-a233-0bb2977c53f1,lure.poker,available,10.99,67.99,high,low,4
 8e3a539e-b0b7-4873-87e7-dfb6d6d26318,scrap.poker,available,5.98,85.98,high,low,5,namecheap,,,18/08/2026 03:49
 339a3eb8-46ae-4bc2-9182-c4b23f8f9df9,pabulum.poker,available,5.98,85.98,medium,low,7,namecheap,,,12/08/2026 18:49
 58671607-c322-48d3-aeb1-fc96735e0f73,choked.poker,available,5.98,85.98,medium,low,6,namecheap,,,12/08/2026 06:39
+a7162c64-a610-43fe-a0c8-e9d78c4a7139,brewery.poker,available,5.38,54.02,high,low,7,spaceship,,,28/09/2026 18:30
 409d8208-9a05-4ea1-9744-c705d1fdc724,cypher.poker,available,5.98,85.98,high,medium,6,namecheap,,,
 9e574c23-689d-48a3-94be-6f41ea55bc5b,celibate.poker,available,5.98,85.98,high,low,8,namecheap,,,11/08/2026 23:25
 b870ab3b-a924-4b79-b0a4-0af80f974564,retaliator.poker,available,10.99,67.99,medium,low,10,namesilo,,,21/09/2026 08:57
 ac69fe9b-2f42-44d0-a450-89330e5fe5dd,settlement.poker,available,10.99,67.99,high,low,10,namesilo,,,28/09/2026 01:43
 477203da-c7c3-4d9b-a5e9-9c31405e6322,adamantine.poker,available,5.98,85.98,medium,low,10,namecheap,,,
 b031044a-e4ce-473b-94a9-5e41f445303c,haywood.poker,available,5.98,85.98,medium,low,7,namecheap,,,23/09/2026 14:07
+06d37835-c3f5-4891-83b8-7cc4087d64e2,cadet.poker,available,8.24,54.07,medium,low,5,porkbun,,,29/09/2026 00:18
 2542fc97-2657-4ffe-9ee6-7be334139d35,lasted.poker,available,5.38,54.02,medium,low,6,spaceship,,,28/09/2026 04:59
 e9f3225a-0d4e-418d-b8f9-c5a2a87d480a,branchless.poker,available,5.98,85.98,medium,low,10,namecheap,,,11/08/2026 02:21
 8375edd6-b75f-4b9b-809b-baec9ed7d6a0,akko.poker,available,5.98,85.98,medium,low,4,namecheap,,,16/09/2026 22:23
@@ -652,6 +707,7 @@ e5c44304-6967-4e13-a696-805372e42fac,enraged.poker,available,5.98,85.98,medium,l
 7ce6f2d0-7cc8-48bd-a299-14dbace16542,misplaced.poker,available,5.98,85.98,medium,low,9,namecheap,,,25/08/2026 01:32
 c92ff86e-6f52-4c27-9210-271d70b1bf17,redden.poker,available,5.98,85.98,medium,low,6,namecheap,,,13/08/2026 06:34
 c837fab2-9a46-44ae-905f-2382d5190898,thunderous.poker,available,14.99,88.49,medium,low,10,name.com,,,13/08/2026 19:56
+cf537631-a161-4ee2-9b68-a7d265bf230f,dlc.poker,available,52.2,52.2,high,low,3,cloudflare,,,28/09/2026 12:11
 50e51403-af6c-4ef8-b619-006ce4507b79,summertime.poker,available,5.98,85.98,high,low,11,namecheap,,,18/09/2026 00:39
 80abba5a-251c-43a8-8acb-f50d35954c70,rensselaer.poker,available,5.38,54.02,high,low,10,spaceship,,,28/09/2026 04:19
 bbd0a32a-3a65-4b81-ab42-204e7c7b8629,yob.poker,available,5.98,85.98,medium,low,3,namecheap,,,11/08/2026 08:46
@@ -661,18 +717,23 @@ bbd0a32a-3a65-4b81-ab42-204e7c7b8629,yob.poker,available,5.98,85.98,medium,low,3
 d605796e-a37e-46af-8f18-1bb8fc3558eb,undersea.poker,available,5.98,85.98,high,low,8,namecheap,,,11/09/2026 00:18
 7fe0b893-377b-43ea-a942-212da98a5308,semiformal.poker,available,5.98,85.98,high,low,10,namecheap,,,10/08/2026 11:42
 c5cc6517-a43c-46ff-a4c3-2a64265e20f5,unimpeded.poker,available,5.98,85.98,medium,low,9,namecheap,,,12/09/2026 13:10
+3d633aae-5325-465d-81b3-8c1dc5fee14a,wii.poker,available,5.38,54.02,high,low,3,spaceship,,,28/09/2026 16:10
+ebf2ad78-26e1-4d6c-a8ad-2b6b151a6ad9,diagnosed.poker,available,5.38,54.02,medium,low,9,spaceship,,,28/09/2026 23:36
 4f6c9f00-7125-4d3d-a4f7-b65a54c85f96,gorky.poker,available,10.99,67.99,high,low,5,namesilo,,,18/09/2026 05:08
+fd063ac4-1155-4285-836d-8acdf7e9a098,terrell.poker,available,10.99,67.99,medium,low,7,namesilo,,,28/09/2026 12:22
 74c3e260-a0b2-483e-b19a-42dcd8aa3440,omdurman.poker,available,10.99,67.99,medium,low,8,namesilo,,,22/09/2026 15:32
-baf07509-75a2-4e39-a5f3-460ea570ee07,april.poker,available,,,high,medium,5,,,,
 9c4013b6-cad0-41c8-b61c-25d79f27d7db,wisdom.poker,available,14.99,,high,low,6,name.com,,,
 350367ac-edf8-4e6b-93ee-ff62703906a5,inventive.poker,available,10.5,85.98,high,low,9,unstoppable,,,28/09/2026 05:59
 ecb25be1-3621-4363-99b5-d6dcc7542ff5,prickly.poker,available,5.98,85.98,medium,low,7,namecheap,,,08/08/2026 17:34
 44efb7ec-e10b-4469-b40a-93910f36021e,brittany.poker,available,10.99,67.99,high,low,8,namesilo,,,27/09/2026 03:23
+2f1c85f0-6441-4e63-af3a-fd25422808c7,pudding.poker,available,10.99,67.99,high,low,7,namesilo,,,28/09/2026 15:09
 3b485111-1d63-4fc2-9dd0-0372915a00b6,ridden.poker,available,14.99,,high,low,6,name.com,,,
 77432a08-b654-4147-b5ad-073756db2687,atavism.poker,available,10.99,67.99,medium,low,7,namesilo,,,20/09/2026 19:45
+b79c07b6-7974-4c46-bc1e-a49df3661737,tens.poker,available,10.99,67.99,medium,low,4,namesilo,,,29/09/2026 03:02
 6bfa10c7-f738-4112-86f5-7c4b9852adeb,squeezable.poker,available,5.98,85.98,medium,low,10,namecheap,,,10/09/2026 17:41
 15b0d486-44d7-47f0-b6e1-010213a4e79e,unpainted.poker,available,5.98,85.98,medium,low,9,namecheap,,,12/09/2026 16:25
 11b926a0-f496-4d0f-8bc7-284fae41c9e3,aluminium.poker,available,5.98,85.98,high,low,9,namecheap,,,18/09/2026 00:20
+b8769187-ed75-413d-9b9f-79a63b1846f1,abi.poker,available,5.38,54.02,high,low,3,spaceship,,,29/09/2026 03:38
 1c87208f-b0ad-402f-a6f0-14fd1b1a66c5,recoil.poker,available,10.99,67.99,high,low,6,namesilo,,,21/09/2026 15:32
 191b7ee0-5666-4fe0-93eb-db56cf955d94,hic.poker,available,14.99,,high,low,3,name.com,,,
 08525c4d-232d-4e2f-be49-36b4608b763e,effeminate.poker,available,5.98,85.98,medium,low,10,namecheap,,,12/08/2026 08:34
@@ -735,12 +796,17 @@ f0d41bfe-c296-4136-a622-12aa6e676d2b,goat.poker,available,14.99,,high,medium,4,n
 ffa50636-64bf-43de-93f5-e2d7c82de940,colbert.poker,available,5.38,54.02,medium,low,7,spaceship,,,27/09/2026 12:41
 142b5b25-aca7-4dd9-bf3e-1f06a5abbfc5,tacit.poker,available,5.98,85.98,high,low,5,namecheap,,,11/09/2026 06:56
 b6a5ee9c-0e28-4e91-a274-e76720f64020,wood.poker,available,5.98,85.98,high,medium,4,namecheap,,,25/09/2026 05:31
+0c4035f7-0e6b-4d4c-abdf-a810ab860c68,hypothetical.poker,available,52.2,52.2,medium,low,12,cloudflare,,,29/09/2026 02:54
+f59e0f93-cd31-4f46-9929-a87d2e3570c7,diver.poker,available,10.99,67.99,high,low,5,namesilo,,,29/09/2026 00:40
 fedf3be1-b6cd-460f-9804-bf81111bfec4,sedulous.poker,available,5.98,85.98,medium,low,8,namecheap,,,07/08/2026 06:14
 454022b1-7929-44ce-a2ff-af3554899372,resume.poker,available,10.99,67.99,high,low,6,namesilo,,,24/09/2026 04:16
 a7916de0-c9ec-4a5d-bb8c-af7c3a9cb660,permeable.poker,available,5.98,85.98,medium,low,9,namecheap,,,08/09/2026 17:36
 2cf94eae-230f-4c9e-b1db-57ecf41db546,doula.poker,available,5.98,85.98,high,low,5,namecheap,,,23/09/2026 21:09
-39f58368-2a8e-4d60-946c-731dc86208ba,blockade.poker,available,14.99,,medium,low,8,name.com,,,
+3229da43-df42-4339-9fa3-8d7bd32e2443,cuthbert.poker,available,10.99,67.99,medium,low,8,namesilo,,,29/09/2026 03:58
+a4d417ea-6e2b-42ec-a4a8-f295edc2360b,southport.poker,available,5.38,54.02,medium,low,9,spaceship,,,29/09/2026 04:35
+39f58368-2a8e-4d60-946c-731dc86208ba,blockade.poker,available,8.24,55.86,medium,low,8,dynadot,,,29/09/2026 01:13
 60f2ca43-98ab-44dc-a95d-9548770623dc,crisply.poker,available,5.98,85.98,medium,low,7,namecheap,,,14/09/2026 09:37
+34ff1f2b-17da-4fa6-b0b3-7f941947167f,eastwood.poker,available,5.38,54.02,high,low,8,spaceship,,,28/09/2026 21:36
 7d7d9488-bc1c-4e85-8053-0569d45f019a,wanted.poker,available,10.99,67.99,high,low,6,namesilo,,,23/09/2026 14:03
 99214ecc-44ec-40c8-b54c-16fcb3c76231,heinz.poker,premium,78.54,78.54,high,low,5,namesilo,,,25/09/2026 07:09
 08da1fe2-20c1-4ba9-9464-4eaa3917f9e2,mcdonald.poker,premium,625,,high,low,8,name.com,,,
@@ -748,7 +814,7 @@ b320abd9-1a70-484a-bc9c-6110b76a12f3,apiary.poker,available,10.99,67.99,high,low
 a4815c12-3add-4d85-b6ae-a01a5c4f5f00,gnarly.poker,available,5.98,85.98,medium,low,6,namecheap,,,20/08/2026 15:38
 07f5cc60-6b22-4418-b44c-b941345db1bc,generously.poker,available,5.98,85.98,high,low,10,namecheap,,,14/09/2026 21:14
 6b9ddcb3-30b5-4ae8-9bb8-c9d6efabef8c,icy.poker,available,5.98,85.98,medium,low,3,namecheap,,,18/08/2026 16:29
-866f015e-2e19-4e1d-a3e5-cfec359ccb8b,too.poker,available,14.99,,high,low,3,name.com,,,
+866f015e-2e19-4e1d-a3e5-cfec359ccb8b,too.poker,available,10.99,67.99,high,low,3,namesilo,,,28/09/2026 12:00
 6ff0a308-2c36-471a-a13c-90c46113137e,augur.poker,available,10.99,67.99,high,low,5,namesilo,,,21/09/2026 03:21
 345b46e9-6c53-451a-8c37-24f2d4c424d3,vulvar.poker,available,5.98,85.98,medium,low,6,namecheap,,,13/09/2026 07:29
 ea61d706-df53-4cf4-a5ab-8cc96f64b938,abatement.poker,available,10.99,67.99,medium,low,9,namesilo,,,16/09/2026 14:09
@@ -764,6 +830,7 @@ a5bbc534-7088-4697-aeae-2dedf7e86b28,whiz.poker,available,5.98,85.98,high,low,4,
 2e4541a3-658d-415c-a0a1-fe7a25272ba8,anyone.poker,available,14.99,,medium,low,6,name.com,,,
 ed4c52f1-f8f2-40bf-8169-284a97c76a99,house.poker,premium,3750,3750,high,medium,5,name.com,,,24/09/2026 18:37
 88a4f973-6058-435a-b55a-8daa3260d3ec,entrancing.poker,available,5.98,85.98,medium,low,10,namecheap,,,09/08/2026 18:23
+9219db73-768c-402d-8e45-af2dff59f4cd,aia.poker,premium,85.8,85.8,high,low,3,namecheap,,,28/09/2026 21:25
 83915a5f-2577-4d1e-8f7c-60a76ad8be01,tucker.poker,available,5.98,85.98,high,low,6,namecheap,,,23/09/2026 08:24
 6242ef35-1bd0-46f3-8a7e-e3d8012062a8,eligible.poker,available,5.98,85.98,high,low,8,namecheap,,,16/08/2026 04:35
 e301d761-be88-4ba0-9275-c68c6052ea2a,congress.poker,available,10.99,67.99,high,low,8,namesilo,,,24/09/2026 13:02
@@ -786,18 +853,23 @@ beabb546-df7b-4d47-9762-7eb94331c9f7,exercising.poker,available,14.99,,high,low,
 a873f391-6874-4d3b-abc3-7ed0ca5325cd,ultimo.poker,available,5.98,85.98,medium,low,6,namecheap,,,11/09/2026 22:47
 fcfb1303-f704-44da-b097-c8c3eef8c29f,minsk.poker,premium,500.5,,high,low,5,unstoppable,,,28/09/2026 05:24
 e76e65cb-9fe0-4dfa-847e-3585bc01b6ca,mentions.poker,available,5.98,85.98,medium,low,8,namecheap,,,17/09/2026 17:25
-665cc95b-5594-4e85-b252-695761743b47,landscape.poker,available,10.99,67.99,high,low,9,namesilo,,,25/09/2026 04:23
+ba5c52c1-e8ea-4d1d-8bff-f0e67fa97ffe,manor.poker,available,5.38,54.02,high,low,5,spaceship,,,28/09/2026 19:49
+665cc95b-5594-4e85-b252-695761743b47,landscape.poker,available,10.99,67.99,high,low,9,namesilo,,,28/09/2026 12:24
 5cbf5fb3-cad1-409b-b3ac-975d4c4e1139,cornelius.poker,available,10.99,67.99,high,low,9,namesilo,,,25/09/2026 15:10
 590c4875-2ab6-496c-83b6-07289dc55ce1,influence.poker,available,5.98,85.98,high,low,9,namecheap,,,08/09/2026 08:44
 fb3df576-b041-41f3-a3c2-94f934aa7f11,ruffled.poker,available,5.98,85.98,high,low,7,namecheap,,,18/08/2026 15:53
 f6d05e85-fe85-4d3e-b390-0b6a05d79be0,calmly.poker,available,5.98,85.98,high,low,6,namecheap,,,14/09/2026 05:04
 c3636bf3-fad5-4757-b343-c993ae435c44,estado.poker,available,14.99,,high,low,6,name.com,,,
 986e8b97-513c-48cb-befa-20de88d3a1ac,stocky.poker,available,5.98,85.98,medium,low,6,namecheap,,,21/08/2026 05:33
+d264b001-bcb5-4444-9150-f45df2934e05,mysore.poker,available,10.5,,medium,low,6,unstoppable,,,28/09/2026 19:36
 64afa7b7-c42c-444f-9ea4-d4247df6dfdb,reinforced.poker,available,10.99,67.99,high,low,10,namesilo,,,23/09/2026 10:25
 68394731-0c4e-4101-abc8-f82870e9c1e9,disciple.poker,available,5.98,85.98,high,low,8,namecheap,,,
 f7a7aa66-b40e-447f-a1ae-ed4fa96611a9,refractory.poker,available,5.98,85.98,medium,low,10,namecheap,,,18/08/2026 13:55
 2847b364-d425-420d-908d-323f1dd01a56,siamese.poker,available,5.98,85.98,high,low,7,namecheap,,,10/09/2026 07:27
 02a3385a-637d-4839-af47-99f5cd6cf8e5,aldehyde.poker,available,5.98,85.98,high,low,8,namecheap,,,18/09/2026 04:24
+13686920-81ac-402f-96ca-c7d504d03b0f,cfs.poker,premium,,,high,low,3,,,,29/09/2026 03:24
+3fe1b3df-49cd-4aaa-9be5-ce2986dd0268,frick.poker,available,5.38,54.02,medium,low,5,spaceship,,,29/09/2026 01:01
+b4109f55-d166-4151-a226-514530c75adf,limbs.poker,available,10.99,67.99,medium,low,5,namesilo,,,29/09/2026 04:58
 872984a2-e2c0-4d88-84c3-3a2e47fa4967,consenting.poker,available,5.98,85.98,high,low,10,namecheap,,,12/08/2026 22:35
 ad660380-f657-441e-b916-93178f0ae149,acervulus.poker,available,10.99,67.99,medium,low,9,namesilo,,,16/09/2026 23:44
 55efbdbd-2284-461c-9cd5-c947007dd1ec,inwardly.poker,available,5.98,85.98,medium,low,8,namecheap,,,15/09/2026 09:18
@@ -809,16 +881,19 @@ bc61c579-c449-4d38-8a18-c745659d1805,asterope.poker,available,10.99,67.99,medium
 3bdf8551-dbba-4929-8e35-1c38cede6580,aroid.poker,available,5.98,85.98,medium,low,5,namecheap,,,06/08/2026 11:30
 04947574-ea8d-473b-abbe-ef2dbbff297f,freeway.poker,available,14.99,,high,low,7,name.com,,,
 a9b64673-1e2e-4699-95a3-21b2360addfc,invite.poker,available,14.99,,high,low,6,name.com,,,
-040984b8-7151-48e4-a867-527da97218f7,are.poker,available,14.99,,high,low,3,name.com,,,
+040984b8-7151-48e4-a867-527da97218f7,are.poker,available,5.38,54.02,high,low,3,spaceship,,,28/09/2026 22:00
+8643c5c2-7761-49f5-89e7-ba5ad749c054,agreeing.poker,available,8.24,55.86,high,low,8,dynadot,,,28/09/2026 15:41
 dad41ac6-05cb-4687-b13e-78e92eecaa8c,humane.poker,available,10.99,67.99,high,low,6,namesilo,,,25/09/2026 06:31
 3ecb3237-6898-45a2-adbb-e34ac33cf9d4,freeborn.poker,available,5.98,85.98,medium,low,8,namecheap,,,18/08/2026 14:53
 4741dd6a-ef44-47a3-a70b-fad6f8bf9b22,voluptuary.poker,available,5.98,85.98,medium,low,10,namecheap,,,24/08/2026 12:27
 db8583b8-8a45-471f-8944-89aafefcd615,stain.poker,available,5.98,85.98,high,low,5,namecheap,,,25/09/2026 16:55
 b314d818-6d30-44a8-82ed-337be3614f18,adorable.poker,available,5.98,85.98,high,low,8,namecheap,,,21/09/2026 19:18
+6172c2a3-ee02-4910-882a-4cb8c8e98e3c,tian.poker,available,5.38,54.02,medium,low,4,spaceship,,,28/09/2026 16:02
 fae3fdde-47c2-43a2-8378-a6fb6a4c2b1e,decent.poker,available,5.98,85.98,high,low,6,namecheap,,,09/08/2026 06:17
 d288a6cc-3145-4cdc-8944-d9413f595997,attachments.poker,available,10.99,67.99,medium,low,11,namesilo,,,21/09/2026 01:43
 629fab50-b34f-4f0e-9f46-4ab5881f4f49,platte.poker,available,5.38,54.02,high,low,6,spaceship,,,28/09/2026 02:56
 0141f49f-faea-4924-99cc-42679c85260f,automatic.poker,premium,78.54,78.54,high,low,9,namesilo,,,22/09/2026 14:02
+93cc3f67-14e8-4727-b15e-38862b395ddf,gui.poker,available,10.99,67.99,high,low,3,namesilo,,,28/09/2026 09:56
 bf818e23-984c-4708-91e6-d71299cc0ed0,spoilt.poker,available,5.98,85.98,medium,low,6,namecheap,,,10/08/2026 14:19
 e8c2f471-d0c6-437f-a1a6-014ed4c33198,clipped.poker,available,5.98,85.98,high,low,7,namecheap,,,12/08/2026 11:16
 00278131-0c7c-4dd6-af52-6f24a45940fa,alternatively.poker,available,10.99,67.99,medium,low,13,namesilo,,,16/09/2026 12:44
@@ -828,6 +903,7 @@ f0e5319f-d56a-44da-a26c-b22979811d9a,simplify.poker,available,14.99,,high,low,8,
 c4b858dd-9219-4bf5-b600-4127a879759e,attentive.poker,available,10.99,67.99,high,low,9,namesilo,,,22/09/2026 11:22
 a99bb86b-a20a-4c0e-8714-e55486d30b32,saddam.poker,available,5.98,85.98,medium,low,6,namecheap,,,25/09/2026 23:11
 edadbb4e-e4c2-4758-b40c-590e7a24cfb6,lifeless.poker,available,5.98,85.98,medium,low,8,namecheap,,,17/08/2026 15:52
+9fe70e97-e81d-4352-8d97-a88a254c37cc,helene.poker,available,10.99,67.99,medium,low,6,namesilo,,,28/09/2026 12:07
 26f4acfc-a982-4b73-8713-cfa5c6318df6,ordain.poker,available,5.98,85.98,high,low,6,namecheap,,,12/08/2026 22:27
 28ca51a2-d166-4235-a030-6821ce28bf7a,clapping.poker,available,5.98,85.98,high,low,8,namecheap,,,19/09/2026 20:57
 a59915eb-3e62-453d-b6a6-3f7e5e6c7efa,depress.poker,available,14.99,,high,low,7,name.com,,,
@@ -839,12 +915,14 @@ f321e43f-8108-4297-b0ec-f170dcb980bb,wasteland.poker,available,5.98,85.98,medium
 9abd77be-1f8c-4ddf-a9a9-a70b03a5f9a6,rightish.poker,available,5.98,85.98,medium,low,8,namecheap,,,09/09/2026 17:35
 20ea8b08-32ee-4001-9bf5-73903a30a283,breathed.poker,available,5.98,85.98,medium,low,8,namecheap,,,11/08/2026 03:16
 3c482639-c1c8-4e23-9232-b996f1f6023c,compatible.poker,available,10.99,67.99,high,low,10,namesilo,,,23/09/2026 16:57
+22b9ead3-36a8-453f-b63b-c2de04b90742,residential.poker,available,10.5,,high,low,11,unstoppable,,,29/09/2026 03:03
 602e8b7c-c213-49d2-811c-bbe7d938ce8d,dissociate.poker,available,5.98,85.98,medium,low,10,namecheap,,,14/08/2026 11:11
 f8def650-788f-430e-b0bd-3e3825c32932,bigness.poker,available,10.99,67.99,medium,low,7,namesilo,,,23/09/2026 15:14
 55d2aa58-8a9e-42d7-a398-8be5c29bf8fd,renascent.poker,available,5.98,85.98,high,low,9,namecheap,,,09/09/2026 13:55
 f3ede670-60e3-4b9a-9423-57644f82465a,secular.poker,available,5.98,85.98,medium,low,7,namecheap,,,22/08/2026 18:49
 4dc3b073-7621-441d-87d3-defccbdab3dc,fore.poker,available,5.98,85.98,high,low,4,namecheap,,,18/08/2026 11:26
 ca158dc1-0243-4420-a750-3776d9765b4f,beograd.poker,available,5.98,85.98,high,low,7,namecheap,,,23/09/2026 05:12
+7132de13-5c56-4e86-b1d9-bdd815a614d7,brewster.poker,available,8.24,55.86,medium,low,8,dynadot,,,28/09/2026 11:34
 3f590c25-0567-4de7-b96a-8c57fa32a454,unable.poker,available,5.98,85.98,high,low,6,namecheap,,,11/09/2026 23:26
 c32d0835-b7f4-4a14-924e-0141c55572b8,incurably.poker,available,5.98,85.98,medium,low,9,namecheap,,,15/09/2026 07:45
 39f19dff-5726-40df-8d33-cf8158c71d09,height.poker,available,5.98,85.98,high,low,6,namecheap,,,25/09/2026 19:39
@@ -886,15 +964,16 @@ c2c1223b-fb81-437f-96c8-4e22ba62f12a,edgy.poker,available,5.98,85.98,high,low,4,
 4c761d19-fea3-4223-85b4-8f164d3df92a,anosmia.poker,available,10.99,67.99,medium,low,7,namesilo,,,19/09/2026 11:51
 b3197cfb-0d6d-4ce6-880c-23d84eaf410a,aerodrome.poker,available,10.99,67.99,high,low,9,namesilo,,,17/09/2026 12:58
 3fd7c282-5d38-4125-a0ca-ff371b9b9be9,repellant.poker,available,5.98,85.98,medium,low,9,namecheap,,,14/08/2026 10:41
-2c91b2b2-90a5-4eb4-b724-1243a19070df,bravery.poker,available,14.99,,high,low,7,name.com,,,
+2c91b2b2-90a5-4eb4-b724-1243a19070df,bravery.poker,available,5.98,85.98,high,low,7,namecheap,,,29/09/2026 04:02
 f67a3e3a-7533-4093-9563-91e3e9699cbd,swore.poker,available,10.5,,medium,low,5,unstoppable,,,28/09/2026 04:28
-393ba844-7f1c-41ca-8486-048cbef8a3bd,esteem.poker,available,14.99,,high,low,6,name.com,,,
+393ba844-7f1c-41ca-8486-048cbef8a3bd,esteem.poker,available,52.2,52.2,high,low,6,cloudflare,,,28/09/2026 18:46
 b47a066d-64df-4fd4-895a-35b0b567e8ea,ananas.poker,available,5.98,85.98,high,low,6,namecheap,,,19/09/2026 02:03
 1aa33ce2-340f-4fbc-9364-8adb6ebb4dba,objects.poker,available,14.99,,medium,low,7,name.com,,,
 a32286b7-6258-4739-acc1-f724c3c73056,frilly.poker,available,5.98,85.98,medium,low,6,namecheap,,,18/08/2026 15:51
 903a825e-fbcb-4f35-8af1-e05deeaadd96,leadership.poker,available,14.99,,high,low,10,name.com,,,
 7bccd895-eb72-4a9b-bb60-cd231e1554eb,lime.poker,available,14.99,88.49,high,low,4,name.com,,,23/09/2026 20:42
 4ec3982f-91e2-4d7c-b91e-103793900125,photography.poker,available,8.24,54.07,high,low,11,porkbun,,,28/09/2026 07:43
+70ca78fa-a41e-43c7-b974-5091eaf7d490,maharashtra.poker,available,10.99,67.99,medium,low,11,namesilo,,,29/09/2026 03:41
 39d08a63-7c63-4f87-9118-cbe675e9bbfd,nonprofit.poker,premium,85.8,85.8,high,low,9,namecheap,,,03/09/2026 18:33
 e5e3ca31-a236-4828-bb33-8f1295f1ccb8,units.poker,available,10.99,67.99,high,low,5,namesilo,,,17/09/2026 16:07
 650bab7e-c65a-4d53-b9d5-c242789746e9,knackered.poker,available,5.98,85.98,medium,low,9,namecheap,,,22/08/2026 16:23
@@ -909,93 +988,14 @@ eb2d4a5d-cc75-419a-ba22-13ee9c5a2e22,edgeways.poker,available,5.98,85.98,medium,
 ff58db76-bf85-42d5-b545-06aeaa4a380f,subsequent.poker,available,5.98,85.98,high,low,10,namecheap,,,11/09/2026 00:44
 7dea3144-bc5e-42bb-b0cf-91b7d1a21b2f,cryonic.poker,available,5.98,85.98,medium,low,7,namecheap,,,13/08/2026 09:37
 b5e21bbb-b4f6-4e80-b72c-ace6e4af24ad,adh.poker,available,10.99,67.99,high,low,3,namesilo,,,17/09/2026 07:56
+dd6f2f7d-62d1-454f-ae3d-1e41e4f62472,earning.poker,available,10.99,67.99,medium,low,7,namesilo,,,28/09/2026 13:27
 acd9eb0c-b732-4253-8785-93af82fb4bf6,cadaverous.poker,available,5.98,85.98,medium,low,10,namecheap,,,10/08/2026 18:51
 8f1dc73e-fe82-4faf-83c5-1c71fde34faa,martha.poker,available,14.99,,high,low,6,name.com,,,
 9b21e28c-279c-49f0-8c85-efac3f69d26a,dealer.poker,premium,2660,2660,high,low,6,namesilo,,,22/09/2026 05:35
 7e9819cd-f222-4170-ac7b-8e410cdfae28,saintly.poker,available,5.98,85.98,high,low,7,namecheap,,,
 da537219-1b83-4448-b0f4-62e9d21800ce,antiquity.poker,available,10.99,67.99,medium,low,9,namesilo,,,19/09/2026 03:50
 70830901-45bd-4774-be34-7c6ebb4f1c8d,composed.poker,available,5.98,85.98,high,low,8,namecheap,,,23/09/2026 17:50
+c985c475-b8b3-4072-9c2b-055b0ef2bdb5,ehrlich.poker,available,10.99,67.99,medium,low,7,namesilo,,,29/09/2026 00:46
 25e324ce-8f91-4e9d-8ad5-9d2f3d9755cc,should.poker,available,14.99,,high,low,6,name.com,,,
 7d16ae16-ec16-4b69-9165-ff27bc72c285,dollarfish.poker,available,5.98,85.98,medium,low,10,namecheap,,,20/09/2026 21:42
 1cc3103e-a9e4-4562-88f8-88aae6ffb970,governance.poker,available,5.98,85.98,high,low,10,namecheap,,,20/08/2026 17:22
-62a15ef1-d7f4-42c4-9270-a4fb40d6b2fd,outraged.poker,available,5.98,85.98,medium,low,8,namecheap,,,22/08/2026 01:03
-e74fceb2-7543-47a8-a929-20a676dd7d74,alimentary.poker,available,5.98,85.98,medium,low,10,namecheap,,,
-073f4f43-fff3-4d77-a434-63f581e95adf,unbordered.poker,available,5.98,85.98,medium,low,10,namecheap,,,12/09/2026 02:21
-781213e1-d2f8-4be6-a41d-ef03b6f67786,pay.poker,premium,2500,,high,medium,3,name.com,,,
-97814e0d-7410-4886-a25f-4c0dd9fcc4b6,frothy.poker,available,5.98,85.98,medium,low,6,namecheap,,,11/08/2026 07:22
-cddb0392-5d2c-45fa-9546-b024f92ce108,swiftly.poker,available,14.99,,high,low,7,name.com,,,
-3ef6db42-76d5-44b9-bca8-8b4faf6704b2,morgue.poker,available,5.98,85.98,medium,low,6,namecheap,,,25/08/2026 06:42
-8be9414f-e016-4df4-9b7a-51b95fc60f7b,unoriginal.poker,available,5.98,85.98,medium,low,10,namecheap,,,12/09/2026 16:21
-99756264-3801-43a9-a5e8-736bdf07fcfc,surrender.poker,available,14.99,,high,low,9,name.com,,,
-40272294-66dc-476b-b04f-bf485900262e,anagoge.poker,available,10.99,67.99,medium,low,7,namesilo,,,19/09/2026 01:27
-f163ba15-2815-48eb-aafb-928f9a266919,primo.poker,available,5.98,85.98,high,low,5,namecheap,,,09/09/2026 02:07
-e2da94d5-013b-4311-aae3-7039c56d5cff,grandmothers.poker,available,5.98,85.98,medium,low,12,namecheap,,,20/09/2026 18:06
-1df8e160-169e-4a58-b256-e8a24813bfe0,alkalizer.poker,available,5.98,85.98,medium,low,9,namecheap,,,
-6bb89a8c-2672-4025-9628-762ed149b58e,exegetic.poker,available,5.98,85.98,medium,low,8,namecheap,,,17/08/2026 16:59
-b7f436ef-46ac-42b7-8a3e-8555d8379b6a,araxes.poker,available,10.99,67.99,medium,low,6,namesilo,,,20/09/2026 00:19
-bb1cf175-5084-4894-bb5e-8e8580e266bd,legion.poker,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",17/12/2025 15:15,17/12/2026 15:15,26/09/2026 07:11
-f0cb6a64-a9f2-400f-84c1-3d542eccee10,york.poker,available,14.99,,high,low,4,name.com,,,
-a155b455-3307-4f83-bb48-c2bee49c0e96,muted.poker,available,5.98,85.98,high,low,5,namecheap,,,21/08/2026 15:56
-7a05f1e7-da3f-4995-8c94-d641676d6858,averroes.poker,available,5.98,85.98,medium,low,8,namecheap,,,16/09/2026 18:56
-d7206c61-b44d-4be5-add6-aee85a35b1b6,amoxil.poker,available,10.99,67.99,medium,low,6,namesilo,,,18/09/2026 22:54
-e544213d-c921-42de-ac3c-5fbb0ab402ec,alienating.poker,available,5.98,85.98,medium,low,10,namecheap,,,
-a06f56eb-ec71-4f1e-8b25-bf81b91556b9,stabilization.poker,available,10.99,67.99,medium,low,13,namesilo,,,17/09/2026 17:23
-63ded9fb-9219-489a-8ce5-8aa18cd41197,separable.poker,available,5.98,85.98,medium,low,9,namecheap,,,14/08/2026 12:50
-f8c4bfd2-514d-4163-a427-60bababa9153,coincident.poker,available,5.98,85.98,medium,low,10,namecheap,,,12/08/2026 13:18
-48e8a884-70b1-4dd5-b01a-baf363c83456,guts.poker,available,14.99,,high,low,4,name.com,,,
-f32cd5c0-00c5-4afa-a055-74560e09ae74,iddm.poker,available,10.99,67.99,medium,low,4,namesilo,,,21/09/2026 06:41
-b9d10eb5-ce96-4ac4-a41d-682cd77438a7,florentine.poker,available,5.98,85.98,high,low,10,namecheap,,,18/08/2026 08:58
-b52d5256-28c1-4798-8cd3-16a0a2fa99fd,taradiddle.poker,available,10.99,67.99,medium,low,10,namesilo,,,21/09/2026 23:52
-dd4c4547-5339-4218-bdb3-8bb94e46142e,gentle.poker,available,5.98,85.98,high,low,6,namecheap,,,06/08/2026 19:29
-a6432d63-cdf5-4189-bd7c-db1ea23723df,meridional.poker,available,5.98,85.98,medium,low,10,namecheap,,,24/08/2026 20:52
-4fe8d7df-2f6b-4650-aff3-5baeab877e94,mmr.poker,available,14.99,,high,low,3,name.com,,,
-de485a70-9550-4211-a4cf-be12e14026bb,splits.poker,available,10.99,67.99,high,low,6,namesilo,,,20/09/2026 07:59
-82bca4f1-fc92-4b66-b711-112e4f9c4fa7,biceps.poker,available,10.99,67.99,high,low,6,namesilo,,,23/09/2026 13:05
-19ea4f6e-0809-4659-a4a7-e6ceebbf0ded,showy.poker,available,5.98,85.98,high,low,5,namecheap,,,18/08/2026 06:20
-49473826-05a1-4729-bd48-b12600a21dbb,expressly.poker,available,5.98,85.98,medium,low,9,namecheap,,,14/09/2026 17:09
-73457f59-8f5d-4b3e-beac-69a4aacb9f1f,securing.poker,available,14.99,,medium,low,8,name.com,,,
-5cea51a1-944f-4797-b91b-1403e2278234,adidas.poker,available,14.99,,high,low,6,name.com,,,
-103a3dfc-6b43-4c70-b9e2-ada510b39392,noiseless.poker,available,5.98,85.98,medium,low,9,namecheap,,,03/09/2026 18:13
-63f9084b-c437-4019-81c0-3f26b0049a49,buckram.poker,available,5.98,85.98,medium,low,7,namecheap,,,11/08/2026 07:31
-bfe43f89-ddc0-43bd-bfce-46a3a782dcb2,automat.poker,available,10.99,67.99,high,low,7,namesilo,,,21/09/2026 06:52
-f3657ba5-f596-48db-88b6-ab94f9242513,ducky.poker,available,14.99,88.49,high,low,5,name.com,,,13/08/2026 18:23
-f9b8ed05-78ef-4097-b625-759a46f70eeb,crisis.poker,available,5.98,85.98,high,low,6,namecheap,,,24/09/2026 19:30
-5887018f-0dab-44c1-9ef1-64720d9c329b,sulfurized.poker,available,5.98,85.98,medium,low,10,namecheap,,,11/09/2026 01:25
-fb4ef034-e2d8-4b1d-8f99-7ceb724393b8,impulsive.poker,available,5.98,85.98,high,low,9,namecheap,,,11/08/2026 01:34
-35873715-d876-452f-9544-710bc76b8efe,advert.poker,available,14.99,,high,low,6,name.com,,,
-699fd9fd-b649-45d3-9003-6268fa239e82,alee.poker,available,5.98,85.98,low,low,4,namecheap,,,13/09/2026 18:38
-16753e24-543a-4811-9224-89a417e7c66d,aper.poker,available,10.99,67.99,medium,low,4,namesilo,,,19/09/2026 16:29
-27456e84-7424-4d5c-bd67-cb705d9b6e03,cluttered.poker,available,5.98,85.98,medium,low,9,namecheap,,,12/08/2026 13:12
-881e6101-0415-4ee7-bd7a-5a6f7e10e57b,thrilled.poker,available,5.98,85.98,high,low,8,namecheap,,,11/09/2026 14:36
-562c0cbe-a9b5-4140-aaa8-f76db93e08b6,anhinga.poker,available,10.99,67.99,medium,low,7,namesilo,,,19/09/2026 08:18
-59f6f423-a3b0-4fb7-84e0-c0ccf1a88a88,bicuspid.poker,available,5.98,85.98,high,low,8,namecheap,,,09/08/2026 19:44
-a395382f-c021-4ffb-971b-389f9d90dfb5,darlington.poker,available,10.99,67.99,high,low,10,namesilo,,,27/09/2026 06:24
-75cccf98-ce98-47c4-b032-fd8b162c2757,goals.poker,available,52.2,52.2,high,low,5,cloudflare,,,28/09/2026 07:10
-ae13d9b1-3343-4404-9056-edacc180e786,belloc.poker,available,10.99,67.99,medium,low,6,namesilo,,,23/09/2026 06:16
-4d945e37-5266-477e-9f00-ea036d10393f,backbench.poker,available,5.98,85.98,medium,low,9,namecheap,,,21/09/2026 15:00
-bf393f32-aae9-4933-8498-177fc11b5818,drizzling.poker,available,5.98,85.98,medium,low,9,namecheap,,,14/08/2026 19:38
-ea3ac43c-c2ab-4b64-9e4b-b3e78f6aaa1a,roily.poker,available,5.98,85.98,medium,low,5,namecheap,,,09/09/2026 18:18
-f70fe707-d40d-498d-bb6c-9e1d48919727,eldest.poker,available,5.98,85.98,high,low,6,namecheap,,,16/08/2026 02:19
-fce18940-65a4-4b73-a3f9-213232395293,anymore.poker,available,14.99,,high,low,7,name.com,,,
-6c5c98ab-91cc-4200-893f-9b0e6d1d9d0d,ecuadorian.poker,premium,625,625,high,low,10,name.com,,,22/08/2026 01:40
-7fb92031-895c-4e6f-b43f-a598e63eea66,fearlessly.poker,available,5.98,85.98,high,low,10,namecheap,,,14/09/2026 10:44
-b59eb401-6618-4c75-a94d-0ecfb755166a,consoling.poker,available,5.98,85.98,high,low,9,namecheap,,,12/08/2026 22:42
-8bb577e7-fb39-4dca-838a-d8b3654a6239,nightfall.poker,available,5.98,85.98,high,low,9,namecheap,,,11/09/2026 21:44
-296bc7cd-4a78-4583-9dfc-d4941e7079ae,truculent.poker,available,5.98,85.98,medium,low,9,namecheap,,,11/09/2026 20:29
-a98ddd3b-6468-462a-ad58-0c260df89728,devils.poker,available,5.38,54.02,low,low,6,spaceship,,,28/09/2026 08:49
-2e7f15a8-52fd-4a21-8a25-7305e50066dd,flames.poker,available,8.24,55.86,medium,low,6,dynadot,,,27/09/2026 23:38
-9865bfc4-cbcb-41d7-a994-66b3e88827ba,disappearance.poker,available,52.2,52.2,medium,low,13,cloudflare,,,28/09/2026 04:24
-d4084c5c-8831-401d-a171-4e7b505df39b,screwdrivers.poker,available,10.99,67.99,medium,low,12,namesilo,,,20/09/2026 04:52
-2da6c635-dd10-4229-aff2-e4edb7e0957c,fanged.poker,available,5.98,85.98,medium,low,6,namecheap,,,17/08/2026 22:05
-9a1920ab-473c-44ff-ad56-22b925798dfa,barrio.poker,available,10.99,67.99,medium,low,6,namesilo,,,22/09/2026 08:38
-b89a5be3-de09-4260-bc80-52fc7649ae60,integral.poker,available,10.99,67.99,high,low,8,namesilo,,,23/09/2026 10:33
-72472ebf-990a-44b2-a19a-6455987e56ad,beroe.poker,available,10.99,67.99,medium,low,5,namesilo,,,23/09/2026 10:02
-fd056bfa-cc3f-41a9-a3b7-7e110b964846,foolproof.poker,available,5.98,85.98,high,low,9,namecheap,,,18/08/2026 10:37
-f76e49bc-dad2-4f93-86ce-44fe51ea5f09,gallium.poker,available,5.98,85.98,medium,low,7,namecheap,,,20/09/2026 22:50
-a7a465aa-c453-4518-a9bb-f3c54f88ed16,anguis.poker,available,10.99,67.99,medium,low,6,namesilo,,,19/09/2026 07:34
-0d850815-d5c8-4917-b7a5-94c9ea212505,cnn.poker,available,14.99,,high,low,3,name.com,,,
-de57feaa-2b62-4b14-b59a-2bd52c10ffcb,dolly.poker,available,10.99,67.99,high,low,5,namesilo,,,27/09/2026 13:05
-aad0cbac-dcb2-41e5-9dbd-06e25d91192c,msa.poker,premium,,,high,low,3,,,,28/09/2026 03:30
-cdd24fd6-6c2e-458d-8302-33ac4e144dae,overall.poker,available,10.99,67.99,high,low,7,namesilo,,,26/09/2026 03:25
-4c304e90-91a7-4ef1-a2d6-db0873ac87a6,regal.poker,available,10.99,67.99,high,low,5,namesilo,,,19/09/2026 11:09
-9f516248-7df4-4097-9619-69a66b54cdaa,revenues.poker,available,5.98,85.98,medium,low,8,namecheap,,,28/09/2026 04:22
