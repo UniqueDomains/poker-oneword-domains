@@ -1,10 +1,10 @@
-# Available .POKER One-Word Domains (32,574)
+# Available .POKER One-Word Domains (34,836)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C574%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C836%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .poker one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,574 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,836 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,574 domains · **Median ask:** $27.29 · **High-demand under $2,500:** 7
+**Public extract:** 1,000 rows · **Live catalog:** 34,836 domains · **Median ask:** $26.88 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/poker`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | ain.poker          | available | $5.98     | $85.98        | high           | low    | 3      | namecheap      |
 | series.poker       | resell    | —         | —             | high           | low    | 6      | Name.com, Inc. |
 | aps.poker          | premium   | $500.50   | —             | high           | low    | 3      | unstoppable    |
-| bfa.poker          | available | $5.38     | $54.02        | high           | low    | 3      | spaceship      |
+| bcl.poker          | available | $5.38     | $54.02        | high           | low    | 3      | spaceship      |
 | amsterdam.poker    | resell    | —         | —             | high           | low    | 9      | OpusDNS GmbH   |
 | baa.poker          | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo       |
-| cva.poker          | available | $5.98     | $85.98        | medium         | low    | 3      | namecheap      |
+| bfa.poker          | available | $5.38     | $54.02        | high           | low    | 3      | spaceship      |
 | philadelphia.poker | resell    | —         | —             | high           | low    | 12     | OpusDNS GmbH   |
 | bna.poker          | premium   | $500.50   | —             | medium         | low    | 3      | unstoppable    |
+| cva.poker          | available | $5.98     | $85.98        | medium         | low    | 3      | namecheap      |
+| ins.poker          | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo       |
 | dig.poker          | available | $14.99    | $88.49        | high           | low    | 3      | name.com       |
 | law.poker          | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo       |
 | dlc.poker          | available | $52.20    | $52.20        | high           | low    | 3      | cloudflare     |
 | men.poker          | premium   | $640      | $640          | high           | low    | 3      | namesilo       |
 | dye.poker          | available | $10.99    | $67.99        | high           | low    | 3      | namesilo       |
 | otc.poker          | premium   | $640      | $640          | high           | low    | 3      | namesilo       |
-| ecg.poker          | available | $5.98     | $85.98        | high           | low    | 3      | namecheap      |
-| reg.poker          | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,574 live domains                        |
+| 1,000-row public sample | 34,836 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .POKER One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .POKER One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
